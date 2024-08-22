@@ -1,5 +1,6 @@
 import sys
 from pathlib import Path
+
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 import os, json
@@ -16,8 +17,8 @@ from task_eval.hf_llm_utils import init_hf_model, get_hf_answers
 import numpy as np
 import google.generativeai as genai
 
-def parse_args():
 
+def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--out-file', required=True, type=str)
     parser.add_argument('--model', required=True, type=str)
@@ -35,7 +36,6 @@ def parse_args():
 
 
 def main():
-
     # get arguments
     args = parse_args()
 
@@ -56,17 +56,17 @@ def main():
             model_name = "models/gemini-1.0-pro-latest"
 
         gemini_model = genai.GenerativeModel(model_name)
-    
+
     elif any([model_name in args.model for model_name in ['gemma', 'llama', 'mistral']]):
         hf_pipeline, hf_model_name = init_hf_model(args)
 
     else:
         raise NotImplementedError
 
-
     # load conversations
     samples = json.load(open(args.data_file))
-    prediction_key = "%s_prediction" % args.model if not args.use_rag else "%s_%s_top_%s_prediction" % (args.model, args.rag_mode, args.top_k)
+    prediction_key = "%s_prediction" % args.model if not args.use_rag else "%s_%s_top_%s_prediction" % (
+    args.model, args.rag_mode, args.top_k)
     model_key = "%s" % args.model if not args.use_rag else "%s_%s_top_%s" % (args.model, args.rag_mode, args.top_k)
     # load the output file if it exists to check for overwriting
     if os.path.exists(args.out_file):
@@ -74,8 +74,12 @@ def main():
     else:
         out_samples = {}
 
+    count = 0
+    number = 2
 
     for data in samples:
+        if count > number:
+            break
 
         out_data = {'sample_id': data['sample_id']}
         if data['sample_id'] in out_samples:
@@ -103,16 +107,14 @@ def main():
                 answers['qa'][i][model_key + '_recall'] = round(recall[i], 3)
 
         out_samples[data['sample_id']] = answers
-
+        count += 1
 
     with open(args.out_file, 'w') as f:
         json.dump(list(out_samples.values()), f, indent=2)
 
-    
     analyze_aggr_acc(args.data_file, args.out_file, args.out_file.replace('.json', '_stats.json'),
-                model_key, model_key + '_f1', rag=args.use_rag)
+                     model_key, model_key + '_f1', rag=args.use_rag)
     # encoder=tiktoken.encoding_for_model(args.model))
 
 
 main()
-
