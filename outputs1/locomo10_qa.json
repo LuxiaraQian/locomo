@@ -1,0 +1,2046 @@
+[
+  {
+    "sample_id": "conv-26",
+    "qa": [
+      {
+        "question": "When did Caroline go to the LGBTQ support group?",
+        "answer": "7 May 2023",
+        "evidence": [
+          "D1:3"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "8 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.667
+      },
+      {
+        "question": "When did Melanie paint a sunrise?",
+        "answer": 2022,
+        "evidence": [
+          "D1:12"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "8 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What fields would Caroline be likely to pursue in her educaton?",
+        "answer": "Psychology, counseling certification",
+        "evidence": [
+          "D1:9",
+          "D1:11"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "Counseling or working in mental health",
+        "gpt-3.5-turbo-4k_f1": 0.222
+      },
+      {
+        "question": "What did Caroline research?",
+        "answer": "Adoption agencies",
+        "evidence": [
+          "D2:8"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Career options",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "What is Caroline's identity?",
+        "answer": "Transgender woman",
+        "evidence": [
+          "D1:5"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Transgender",
+        "gpt-3.5-turbo-4k_f1": 0.667
+      },
+      {
+        "question": "When did Melanie run a charity race?",
+        "answer": "The sunday before 25 May 2023",
+        "evidence": [
+          "D2:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "25 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.75
+      },
+      {
+        "question": "When is Melanie planning on going camping?",
+        "answer": "June 2023",
+        "evidence": [
+          "D2:7"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Next month",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What is Caroline's relationship status?",
+        "answer": "Single",
+        "evidence": [
+          "D3:13",
+          "D2:14"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Single",
+        "gpt-3.5-turbo-4k_f1": 1.0
+      },
+      {
+        "question": "When did Caroline give a speech at a school?",
+        "answer": "The week before 9 June 2023",
+        "evidence": [
+          "D3:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "9 June, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.75
+      },
+      {
+        "question": "When did Caroline meet up with her friends, family, and mentors?",
+        "answer": "The week before 9 June 2023",
+        "evidence": [
+          "D3:11"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "25 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "How long has Caroline had her current group of friends for?",
+        "answer": "4 years",
+        "evidence": [
+          "D3:13"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "4 years",
+        "gpt-3.5-turbo-4k_f1": 1.0
+      },
+      {
+        "question": "Where did Caroline move from 4 years ago?",
+        "answer": "Sweden",
+        "evidence": [
+          "D3:13",
+          "D4:3"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "home country",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "How long ago was Caroline's 18th birthday?",
+        "answer": "10 years ago",
+        "evidence": [
+          "D4:5"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "10 years ago",
+        "gpt-3.5-turbo-4k_f1": 1.0
+      },
+      {
+        "question": "What career path has Caroline decided to persue?",
+        "answer": "counseling or mental health for Transgender people",
+        "evidence": [
+          "D4:13",
+          "D1:11"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "counseling or working in mental health",
+        "gpt-3.5-turbo-4k_f1": 0.615
+      },
+      {
+        "question": "Would Caroline still want to pursue counseling as a career if she hadn't received support growing up?",
+        "answer": "Likely no",
+        "evidence": [
+          "D4:15",
+          "D3:5"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "Yes",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What activities does Melanie partake in?",
+        "answer": "pottery, camping, painting, swimming",
+        "evidence": [
+          "D5:4",
+          "D9:1",
+          "D1:12",
+          "D1:18"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "pottery, painting, camping, swimming",
+        "gpt-3.5-turbo-4k_f1": 1.0
+      },
+      {
+        "question": "When did Melanie sign up for a pottery class?",
+        "answer": "2 July 2023",
+        "evidence": [
+          "D5:4"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "1:36 pm on 3 July, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.444
+      },
+      {
+        "question": "When is Caroline going to the transgender conference?",
+        "answer": "July 2023",
+        "evidence": [
+          "D5:13"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "1:36 pm on 3 July, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.5
+      },
+      {
+        "question": "Where has Melanie camped?",
+        "answer": "beach, mountains, forest",
+        "evidence": [
+          "D6:16",
+          "D4:6",
+          "D8:32"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "mountains",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "What do Melanie's kids like?",
+        "answer": "dinosaurs, nature",
+        "evidence": [
+          "D6:6",
+          "D4:8"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "nature",
+        "gpt-3.5-turbo-4k_f1": 0.5
+      },
+      {
+        "question": "When did Melanie go to the museum?",
+        "answer": "5 July 2023",
+        "evidence": [
+          "D6:4"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "1:36 pm on 3 July, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.444
+      },
+      {
+        "question": "When did Caroline have a picnic?",
+        "answer": "The week before 6 July 2023",
+        "evidence": [
+          "D6:11"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "10:37 am on 27 June, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.182
+      },
+      {
+        "question": "Would Caroline likely have Dr. Seuss books on her bookshelf?",
+        "answer": "Yes, since she collects classic children's books",
+        "evidence": [
+          "D6:9"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "No",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What books has Melanie read?",
+        "answer": "\"Nothing is Impossible\", \"Charlotte's Web\"",
+        "evidence": [
+          "D7:8",
+          "D6:10"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Not specified",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "What does Melanie do to destress?",
+        "answer": "Running, pottery",
+        "evidence": [
+          "D7:22",
+          "D5:4"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Running, reading, or playing the violin",
+        "gpt-3.5-turbo-4k_f1": 0.5
+      },
+      {
+        "question": "When did Caroline go to the LGBTQ conference?",
+        "answer": "10 July 2023",
+        "evidence": [
+          "D7:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "3 July, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.667
+      },
+      {
+        "question": "When did Melanie read the book \"nothing is impossible\"?",
+        "answer": 2022,
+        "evidence": [
+          "D7:8"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "25 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Would Caroline pursue writing as a career option?",
+        "answer": "LIkely no; though she likes reading, she wants to be a counselor",
+        "evidence": [
+          "D7:5",
+          "D7:9"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "No",
+        "gpt-3.5-turbo-4k_f1": 0.667
+      },
+      {
+        "question": "When did Caroline go to the adoption meeting?",
+        "answer": "The friday before 15 July 2023",
+        "evidence": [
+          "D8:9"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "25 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "When did Melanie go to the pottery workshop?",
+        "answer": "The Friday before 15 July 2023",
+        "evidence": [
+          "D8:2"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "3 July, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.5
+      },
+      {
+        "question": "Would Melanie be considered a member of the LGBTQ community?",
+        "answer": "Likely no, she does not refer to herself as part of it",
+        "evidence": [],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "No",
+        "gpt-3.5-turbo-4k_f1": 0.154
+      },
+      {
+        "question": "When did Melanie go camping in June?",
+        "answer": "The week before 27 June 2023",
+        "evidence": [
+          "D4:8"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Last week",
+        "gpt-3.5-turbo-4k_f1": 0.286
+      },
+      {
+        "question": "What LGBTQ+ events has Caroline participated in?",
+        "answer": "Pride parade, school speech, support group",
+        "evidence": [
+          "D5:1",
+          "D8:17",
+          "D3:1",
+          "D1:3"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Transgender conference, LGBTQ support group",
+        "gpt-3.5-turbo-4k_f1": 0.267
+      },
+      {
+        "question": "When did Caroline go to a pride parade during the summer?",
+        "answer": "The week before 3 July 2023",
+        "evidence": [
+          "D5:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What events has Caroline participated in to help children?",
+        "answer": "Mentoring program, school speech",
+        "evidence": [
+          "D9:2",
+          "D3:3"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Charity race for mental health, LGBTQ support group",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Melanie go camping in July?",
+        "answer": "two weekends before 17 July 2023",
+        "evidence": [
+          "D9:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Late June",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "When did Caroline join a mentorship program?",
+        "answer": "The weekend before 17 July 2023",
+        "evidence": [
+          "D9:2"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "25 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "What did Melanie paint recently?",
+        "answer": "sunset",
+        "evidence": [
+          "D8:6; D9:17"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "A lake sunrise",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "What activities has Melanie done with her family?",
+        "answer": "Pottery, painting, camping, museum, swimming, hiking",
+        "evidence": [
+          "D8:4",
+          "D8:6",
+          "D9:1",
+          "D6:4",
+          "D1:18",
+          "D3:14"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Camping, swimming",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "In what ways is Caroline participating in the LGBTQ community?",
+        "answer": "Joining activist group, going to pride parades, participating in an art show, mentoring program",
+        "evidence": [
+          "D10:3",
+          "D5:1",
+          "D9:12",
+          "D9:2"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Attending LGBTQ support groups, giving talks about transgender journey, researching adoption agencies",
+        "gpt-3.5-turbo-4k_f1": 0.071
+      },
+      {
+        "question": "How many times has Melanie gone to the beach in 2023?",
+        "answer": 2,
+        "evidence": [
+          "D10:8",
+          "D6:16"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Melanie went camping in the mountains once in 2023.",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Caroline join a new activist group?",
+        "answer": "The Tuesday before 20 July 2023",
+        "evidence": [
+          "D10:3"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Caroline joined a new activist group on 25 May, 2023.",
+        "gpt-3.5-turbo-4k_f1": 0.143
+      },
+      {
+        "question": "Would Melanie be more interested in going to a national park or a theme park?",
+        "answer": "National park; she likes the outdoors",
+        "evidence": [
+          "D10:12",
+          "D10:14"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "Melanie would be more interested in going to a national park.",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "What kind of art does Caroline make?",
+        "answer": "abstract art",
+        "evidence": [
+          "D11:12",
+          "D11:8",
+          "D9:14"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Caroline makes pottery.",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When is Melanie's daughter's birthday?",
+        "answer": "13 August",
+        "evidence": [
+          "D11:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Melanie's daughter's birthday is in June.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "When did Caroline attend a pride parade in August?",
+        "answer": "The Friday before 14 August 2023",
+        "evidence": [
+          "D11:4"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Would Melanie be considered an ally to the transgender community?",
+        "answer": "Yes, she is supportive",
+        "evidence": [],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "Yes",
+        "gpt-3.5-turbo-4k_f1": 0.4
+      },
+      {
+        "question": "Who supports Caroline when she has a negative experience?",
+        "answer": "Her mentors, family, and friends",
+        "evidence": [
+          "D12:1",
+          "D3:11"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Friends, family, and mentors",
+        "gpt-3.5-turbo-4k_f1": 0.889
+      },
+      {
+        "question": "What types of pottery have Melanie and her kids made?",
+        "answer": "bowls, cup",
+        "evidence": [
+          "D12:14",
+          "D8:4",
+          "D5:6"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Bowls",
+        "gpt-3.5-turbo-4k_f1": 0.5
+      },
+      {
+        "question": "When did Caroline and Melanie go to a pride fesetival together?",
+        "answer": 2022,
+        "evidence": [
+          "D12:15"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What would Caroline's political leaning likely be?",
+        "answer": "Liberal",
+        "evidence": [
+          "D12:1"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "Progressive",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What has Melanie painted?",
+        "answer": "Horse, sunset, sunrise",
+        "evidence": [
+          "D13:8",
+          "D8:6",
+          "D1:12"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "a lake sunrise",
+        "gpt-3.5-turbo-4k_f1": 0.222
+      },
+      {
+        "question": "What are Melanie's pets' names?",
+        "answer": "Oliver, Luna, Bailey",
+        "evidence": [
+          "D13:4",
+          "D7:18"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Caroline apply to adoption agencies?",
+        "answer": "The week of 23 August 2023",
+        "evidence": [
+          "D13:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "25 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "When did Caroline draw a self-portrait?",
+        "answer": "The week before 23 August 2023",
+        "evidence": [
+          "D13:11"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "8 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "What subject have Caroline and Melanie both painted?",
+        "answer": "Sunsets",
+        "evidence": [
+          "D14:5",
+          "D8:6"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "lake sunrise",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "What symbols are important to Caroline?",
+        "answer": "Rainbow flag, transgender symbol",
+        "evidence": [
+          "D14:15",
+          "D4:1"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "cross and heart",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Caroline encounter people on a hike and have a negative experience?",
+        "answer": "The week before 25 August 2023",
+        "evidence": [
+          "D14:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "27 June, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "When did Melanie make a plate in pottery class?",
+        "answer": "24 August 2023",
+        "evidence": [
+          "D14:4"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "3 July, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "Would Caroline be considered religious?",
+        "answer": "Somewhat, but not extremely religious",
+        "evidence": [
+          "D14:19",
+          "D12:1"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "No",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What instruments does Melanie play?",
+        "answer": "clarinet and violin",
+        "evidence": [
+          "D15:26",
+          "D2:5"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "violin",
+        "gpt-3.5-turbo-4k_f1": 0.667
+      },
+      {
+        "question": "What musical artists/bands has Melanie seen?",
+        "answer": "Summer Sounds, Matt Patterson",
+        "evidence": [
+          "D15:16",
+          "D11:3"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "no specific mention",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Melanie go to the park?",
+        "answer": "27 August 2023",
+        "evidence": [
+          "D15:2"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "8 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "When is Caroline's youth center putting on a talent show?",
+        "answer": "September 2023",
+        "evidence": [
+          "D15:11"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "8 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.4
+      },
+      {
+        "question": "Would Melanie likely enjoy the song \"The Four Seasons\" by Vivaldi?",
+        "answer": "Yes; it's classical music",
+        "evidence": [
+          "D15:28"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "Yes",
+        "gpt-3.5-turbo-4k_f1": 1.0
+      },
+      {
+        "question": "What are some changes Caroline has faced during her transition journey?",
+        "answer": "Changes to her body, losing unsupportive friends",
+        "evidence": [
+          "D16:15",
+          "D11:14"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Spreading awareness, inspiring others, talking about inclusivity and acceptance",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "What does Melanie do with her family on hikes?",
+        "answer": "Roast marshmallows, tell stories",
+        "evidence": [
+          "D16:4",
+          "D10:12"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Explores nature, roasts marshmallows, goes on hikes",
+        "gpt-3.5-turbo-4k_f1": 0.5
+      },
+      {
+        "question": "When did Caroline go biking with friends?",
+        "answer": "The weekend before 13 September 2023",
+        "evidence": [
+          "D16:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "25 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "How long has Melanie been practicing art?",
+        "answer": "Since 2016",
+        "evidence": [
+          "D16:8"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Since at least 25 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "What personality traits might Melanie say Caroline has?",
+        "answer": "Thoughtful, authentic, driven",
+        "evidence": [
+          "D16:18",
+          "D13:16",
+          "D7:4"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "Empathy, understanding",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What transgender-specific events has Caroline attended?",
+        "answer": "Poetry reading, conference",
+        "evidence": [
+          "D17:19",
+          "D15:13"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "LGBTQ support group",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "What book did Melanie read from Caroline's suggestion?",
+        "answer": "\"Becoming Nicole\"",
+        "evidence": [
+          "D7:11",
+          "D17:10"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "book shelf with many books",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Melanie's friend adopt a child?",
+        "answer": 2022,
+        "evidence": [
+          "D17:3"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "25 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "When did Melanie get hurt?",
+        "answer": "September 2023",
+        "evidence": [
+          "D17:8"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "8 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.4
+      },
+      {
+        "question": "When did Melanie's family go on a roadtrip?",
+        "answer": "The weekend before 20 October 2023",
+        "evidence": [
+          "D18:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "25 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "How many children does Melanie have?",
+        "answer": 3,
+        "evidence": [
+          "D18:1",
+          "D18:7"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "2 kids",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Melanie go on a hike after the roadtrip?",
+        "answer": "19 October 2023",
+        "evidence": [
+          "D18:17"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "During the camping trip",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "Would Melanie go on another roadtrip soon?",
+        "answer": "Likely no; since this one went badly",
+        "evidence": [
+          "D18:3",
+          "D18:1"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "Yes",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What items has Melanie bought?",
+        "answer": "Figurines, shoes",
+        "evidence": [
+          "D19:2",
+          "D7:18"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "A necklace, stack of bowls, a painting of a lake sunrise",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Caroline pass the adoption interview?",
+        "answer": "The Friday before 22 October 2023",
+        "evidence": [
+          "D19:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "25 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "When did Melanie buy the figurines?",
+        "answer": "21 October 2023",
+        "evidence": [
+          "D19:2"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "27 June, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "Would Caroline want to move back to her home country soon?",
+        "answer": "No; she's in the process of adopting children.",
+        "evidence": [
+          "D19:1",
+          "D19:3"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "No",
+        "gpt-3.5-turbo-4k_f1": 1.0
+      },
+      {
+        "question": "What did the charity race raise awareness for?",
+        "answer": "mental health",
+        "evidence": [
+          "D2:2"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Mental health",
+        "gpt-3.5-turbo-4k_f1": 1.0
+      },
+      {
+        "question": "What did Melanie realize after the charity race?",
+        "answer": "self-care is important",
+        "evidence": [
+          "D2:3"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Self-care is important",
+        "gpt-3.5-turbo-4k_f1": 1.0
+      },
+      {
+        "question": "How does Melanie prioritize self-care?",
+        "answer": "by carving out some me-time each day for activities like running, reading, or playing the violin",
+        "evidence": [
+          "D2:5"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "By carving out me-time each day - running, reading, or playing the violin",
+        "gpt-3.5-turbo-4k_f1": 0.846
+      },
+      {
+        "question": "What are Caroline's plans for the summer?",
+        "answer": "researching adoption agencies",
+        "evidence": [
+          "D2:8"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Researching adoption agencies",
+        "gpt-3.5-turbo-4k_f1": 1.0
+      },
+      {
+        "question": "What type of individuals does the adoption agency Caroline is considering support?",
+        "answer": "LGBTQ+ individuals",
+        "evidence": [
+          "D2:12"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "LGBTQ+ folks",
+        "gpt-3.5-turbo-4k_f1": 0.5
+      },
+      {
+        "question": "Why did Caroline choose the adoption agency?",
+        "answer": "because of their inclusivity and support for LGBTQ+ individuals",
+        "evidence": [
+          "D2:12"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Inclusivity and support",
+        "gpt-3.5-turbo-4k_f1": 0.4
+      },
+      {
+        "question": "What is Caroline excited about in the adoption process?",
+        "answer": "creating a family for kids who need one",
+        "evidence": [
+          "D2:14"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Making a family for kids who need one",
+        "gpt-3.5-turbo-4k_f1": 0.857
+      },
+      {
+        "question": "What does Melanie think about Caroline's decision to adopt?",
+        "answer": "she thinks Caroline is doing something amazing and will be an awesome mom",
+        "evidence": [
+          "D2:15"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "You're doing something amazing! Creating a family for those kids is so lovely. You'll be an awesome mom! Good luck!",
+        "gpt-3.5-turbo-4k_f1": 0.483
+      },
+      {
+        "question": "How long have Mel and her husband been married?",
+        "answer": "Mel and her husband have been married for 5 years.",
+        "evidence": [
+          "D3:16"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "5 years",
+        "gpt-3.5-turbo-4k_f1": 0.364
+      },
+      {
+        "question": "What does Caroline's necklace symbolize?",
+        "answer": "love, faith, and strength",
+        "evidence": [
+          "D4:3"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "love, faith and strength",
+        "gpt-3.5-turbo-4k_f1": 1.0
+      },
+      {
+        "question": "What country is Caroline's grandma from?",
+        "answer": "Sweden",
+        "evidence": [
+          "D4:3"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Sweden",
+        "gpt-3.5-turbo-4k_f1": 1.0
+      },
+      {
+        "question": "What was grandma's gift to Caroline?",
+        "answer": "necklace",
+        "evidence": [
+          "D4:3"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "a necklace with a cross and a heart",
+        "gpt-3.5-turbo-4k_f1": 0.4
+      },
+      {
+        "question": "What is Melanie's hand-painted bowl a reminder of?",
+        "answer": "art and self-expression",
+        "evidence": [
+          "D4:5"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "art and self-expression",
+        "gpt-3.5-turbo-4k_f1": 1.0
+      },
+      {
+        "question": "What did Melanie and her family do while camping?",
+        "answer": "explored nature, roasted marshmallows, and went on a hike",
+        "evidence": [
+          "D4:8"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Explored nature, roasted marshmallows, went on a hike",
+        "gpt-3.5-turbo-4k_f1": 1.0
+      },
+      {
+        "question": "What kind of counseling and mental health services is Caroline interested in pursuing?",
+        "answer": "working with trans people, helping them accept themselves and supporting their mental health",
+        "evidence": [
+          "D4:13"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Counseling for trans people",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "What workshop did Caroline attend recently?",
+        "answer": "LGBTQ+ counseling workshop",
+        "evidence": [
+          "D4:13"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "LGBTQ+ counseling workshop",
+        "gpt-3.5-turbo-4k_f1": 1.0
+      },
+      {
+        "question": "What was discussed in the LGBTQ+ counseling workshop?",
+        "answer": "therapeutic methods and how to best work with trans people",
+        "evidence": [
+          "D4:13"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Different therapeutic methods and working with trans people",
+        "gpt-3.5-turbo-4k_f1": 0.75
+      },
+      {
+        "question": "What motivated Caroline to pursue counseling?",
+        "answer": "her own journey and the support she received, and how counseling improved her life",
+        "evidence": [
+          "D4:15"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Own journey and support received",
+        "gpt-3.5-turbo-4k_f1": 0.533
+      },
+      {
+        "question": "What kind of place does Caroline want to create for people?",
+        "answer": "a safe and inviting place for people to grow",
+        "evidence": [
+          "D4:15"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "a safe and loving home",
+        "gpt-3.5-turbo-4k_f1": 0.2
+      },
+      {
+        "question": "Did Melanie make the black and white bowl in the photo?",
+        "answer": "Yes",
+        "evidence": [
+          "D5:8"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Yes",
+        "gpt-3.5-turbo-4k_f1": 1.0
+      },
+      {
+        "question": "What kind of books does Caroline have in her library?",
+        "answer": "kids' books - classics, stories from different cultures, educational books",
+        "evidence": [
+          "D6:9"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "many books",
+        "gpt-3.5-turbo-4k_f1": 0.182
+      },
+      {
+        "question": "What was Melanie's favorite book from her childhood?",
+        "answer": "\"Charlotte's Web\"",
+        "evidence": [
+          "D6:10"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "None",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What book did Caroline recommend to Melanie?",
+        "answer": "\"Becoming Nicole\"",
+        "evidence": [
+          "D7:11"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "None",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Caroline take away from the book \"Becoming Nicole\"?",
+        "answer": "Lessons on self-acceptance and finding support",
+        "evidence": [
+          "D7:13"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Inspiration and understanding",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What are the new shoes that Melanie got used for?",
+        "answer": "Running",
+        "evidence": [
+          "D7:19"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Running",
+        "gpt-3.5-turbo-4k_f1": 1.0
+      },
+      {
+        "question": "What is Melanie's reason for getting into running?",
+        "answer": "To de-stress and clear her mind",
+        "evidence": [
+          "D7:21"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "To take care of her mind",
+        "gpt-3.5-turbo-4k_f1": 0.545
+      },
+      {
+        "question": "What does Melanie say running has been great for?",
+        "answer": "Her mental health",
+        "evidence": [
+          "D7:24"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Helping her stay present for her family",
+        "gpt-3.5-turbo-4k_f1": 0.2
+      },
+      {
+        "question": "What did Mel and her kids make during the pottery workshop?",
+        "answer": "pots",
+        "evidence": [
+          "D8:2"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "A bowl with a black and white flower design",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What kind of pot did Mel and her kids make with clay?",
+        "answer": "a cup with a dog face on it",
+        "evidence": [
+          "D8:4"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "bowl with a black and white flower design",
+        "gpt-3.5-turbo-4k_f1": 0.167
+      },
+      {
+        "question": "What creative project do Mel and her kids do together besides pottery?",
+        "answer": "painting",
+        "evidence": [
+          "D8:5"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "painting",
+        "gpt-3.5-turbo-4k_f1": 1.0
+      },
+      {
+        "question": "What did Mel and her kids paint in their latest project in July 2023?",
+        "answer": "a sunset with a palm tree",
+        "evidence": [
+          "D8:6"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "a lake sunrise",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Caroline see at the council meeting for adoption?",
+        "answer": "many people wanting to create loving homes for children in need",
+        "evidence": [
+          "D8:9"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "a sign for a new arrival and an information and domestic building",
+        "gpt-3.5-turbo-4k_f1": 0.111
+      },
+      {
+        "question": "What do sunflowers represent according to Caroline?",
+        "answer": "warmth and happiness",
+        "evidence": [
+          "D8:11"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "love, faith, and strength",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Why are flowers important to Melanie?",
+        "answer": "They remind her to appreciate the small moments and were a part of her wedding decor",
+        "evidence": [
+          "D8:12"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Flowers help Melanie express her emotions.",
+        "gpt-3.5-turbo-4k_f1": 0.105
+      },
+      {
+        "question": "What inspired Caroline's painting for the art show?",
+        "answer": "visiting an LGBTQ center and wanting to capture unity and strength",
+        "evidence": [
+          "D9:16"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "The sunrise over the lake inspired Caroline's painting for the art show.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How often does Melanie go to the beach with her kids?",
+        "answer": "once or twice a year",
+        "evidence": [
+          "D10:10"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Melanie goes camping with her kids during the summer break.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Melanie and her family see during their camping trip last year?",
+        "answer": "Perseid meteor shower",
+        "evidence": [
+          "D10:14"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Melanie and her family saw a beautiful view from the top during their camping trip last year.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How did Melanie feel while watching the meteor shower?",
+        "answer": "in awe of the universe",
+        "evidence": [
+          "D10:18"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Melanie felt amazed while watching the meteor shower.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Whose birthday did Melanie celebrate recently?",
+        "answer": "Melanie's daughter",
+        "evidence": [
+          "D11:1"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Melanie's daughter",
+        "gpt-3.5-turbo-4k_f1": 1.0
+      },
+      {
+        "question": "Who performed at the concert at Melanie's daughter's birthday?",
+        "answer": "Matt Patterson",
+        "evidence": [
+          "D11:3"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "A magician",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Why did Melanie choose to use colors and patterns in her pottery project?",
+        "answer": "She wanted to catch the eye and make people smile.",
+        "evidence": [
+          "D12:6"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "To express her feelings and get creative",
+        "gpt-3.5-turbo-4k_f1": 0.143
+      },
+      {
+        "question": "What pet does Caroline have?",
+        "answer": "guinea pig",
+        "evidence": [
+          "D13:3"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "A dog",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What pets does Melanie have?",
+        "answer": "Two cats and a dog",
+        "evidence": [
+          "D13:4"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Where did Oliver hide his bone once?",
+        "answer": "In Melanie's slipper",
+        "evidence": [
+          "D13:6"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "under the apple tree",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What activity did Caroline used to do with her dad?",
+        "answer": "Horseback riding",
+        "evidence": [
+          "D13:7"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "fishing",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Caroline make for a local church?",
+        "answer": "a stained glass window",
+        "evidence": [
+          "D14:17"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "a quilt",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Caroline find in her neighborhood during her walk?",
+        "answer": "a rainbow sidewalk",
+        "evidence": [
+          "D14:23"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "a lost dog",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Which song motivates Caroline to be courageous?",
+        "answer": "Brave by Sara Bareilles",
+        "evidence": [
+          "D15:23"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Brave by Sara Bareilles",
+        "gpt-3.5-turbo-4k_f1": 1.0
+      },
+      {
+        "question": "Which  classical musicians does Melanie enjoy listening to?",
+        "answer": "Bach and Mozart",
+        "evidence": [
+          "D15:28"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "violinists",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Who is Melanie a fan of in terms of modern music?",
+        "answer": "Ed Sheeran",
+        "evidence": [
+          "D15:28"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Taylor Swift",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How long has Melanie been creating art?",
+        "answer": "7 years",
+        "evidence": [
+          "D16:7"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "last year",
+        "gpt-3.5-turbo-4k_f1": 0.5
+      },
+      {
+        "question": "What precautionary sign did Melanie see at the caf\u00e9?",
+        "answer": "A sign stating that someone is not being able to leave",
+        "evidence": [
+          "D16:16"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "new arrival",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What advice does Caroline give for getting started with adoption?",
+        "answer": "Do research, find an adoption agency or lawyer, gather necessary documents, and prepare emotionally.",
+        "evidence": [
+          "D17:7"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "be up for the challenge",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What setback did Melanie face in October 2023?",
+        "answer": "She got hurt and had to take a break from pottery.",
+        "evidence": [
+          "D17:8"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "swamped with the kids & work",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What does Melanie do to keep herself busy during her pottery break?",
+        "answer": "Read a book and paint.",
+        "evidence": [
+          "D17:10"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "painting a lake sunrise",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "What painting did Melanie show to Caroline on October 13, 2023?",
+        "answer": "A painting inspired by sunsets with a pink sky.",
+        "evidence": [
+          "D17:12"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "a painting of a sunset over a lake",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "What kind of painting did Caroline share with Melanie on October 13, 2023?",
+        "answer": "An abstract painting with blue streaks on a wall.",
+        "evidence": [
+          "D17:14"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "a photo of a dog walking past a wall with a painting of a woman",
+        "gpt-3.5-turbo-4k_f1": 0.353
+      },
+      {
+        "question": "What was the poetry reading that Caroline attended about?",
+        "answer": "It was a transgender poetry reading where transgender people shared their stories.",
+        "evidence": [
+          "D17:18"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "transgender stories and support",
+        "gpt-3.5-turbo-4k_f1": 0.286
+      },
+      {
+        "question": "What did the posters at the poetry reading say?",
+        "answer": "\"Trans Lives Matter\"",
+        "evidence": [
+          "D17:19"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "A sunset over a lake",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What does Caroline's drawing symbolize for her?",
+        "answer": "Freedom and being true to herself.",
+        "evidence": [
+          "D17:23"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Art and self-expression",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How do Melanie and Caroline describe their journey through life together?",
+        "answer": "An ongoing adventure of learning and growing.",
+        "evidence": [
+          "D17:25"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Spreading love and understanding",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What happened to Melanie's son on their road trip?",
+        "answer": "He got into an accident",
+        "evidence": [
+          "D18:1"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "He got into an accident",
+        "gpt-3.5-turbo-4k_f1": 1.0
+      },
+      {
+        "question": "How did Melanie's son handle the accident?",
+        "answer": "He was scared but reassured by his family",
+        "evidence": [
+          "D18:6",
+          "D18:7"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "He handled it well",
+        "gpt-3.5-turbo-4k_f1": 0.167
+      },
+      {
+        "question": "How did Melanie feel about her family after the accident?",
+        "answer": "They are important and mean the world to her",
+        "evidence": [
+          "D18:5"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Family is everything",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How did Melanie's children handle the accident?",
+        "answer": "They were scared but resilient",
+        "evidence": [
+          "D18:7"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "The 2 younger kids love nature",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How did Melanie feel after the accident?",
+        "answer": "Grateful and thankful for her family",
+        "evidence": [
+          "D18:5"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "I'm grateful for the chance to share my story and give others hope",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "What was Melanie's reaction to her children enjoying the Grand Canyon?",
+        "answer": "She was happy and thankful",
+        "evidence": [
+          "D18:5"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "It was so special having these moments together as a family - I'll never forget it!",
+        "gpt-3.5-turbo-4k_f1": 0.111
+      },
+      {
+        "question": "What do Melanie's family give her?",
+        "answer": "Strength and motivation",
+        "evidence": [
+          "D18:9"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "motivation and love",
+        "gpt-3.5-turbo-4k_f1": 0.5
+      },
+      {
+        "question": "How did Melanie feel about her family supporting her?",
+        "answer": "She appreciated them a lot",
+        "evidence": [
+          "D18:13"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Melanie felt grateful for her family's support.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Melanie do after the road trip to relax?",
+        "answer": "Went on a nature walk or hike",
+        "evidence": [
+          "D18:17"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Melanie went swimming with the kids to relax after the road trip.",
+        "gpt-3.5-turbo-4k_f1": 0.125
+      },
+      {
+        "question": "What did Caroline realize after her charity race?",
+        "evidence": [
+          "D2:3"
+        ],
+        "category": 5,
+        "answer": "self-care is important",
+        "gpt-3.5-turbo-4k_prediction": "a) self-care is important",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What are Melanie's plans for the summer with respect to adoption?",
+        "evidence": [
+          "D2:8"
+        ],
+        "category": 5,
+        "answer": "researching adoption agencies",
+        "gpt-3.5-turbo-4k_prediction": "a) researching adoption agencies",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What type of individuals does the adoption agency Melanie is considering support?",
+        "evidence": [
+          "D2:12"
+        ],
+        "category": 5,
+        "answer": "LGBTQ+ individuals",
+        "gpt-3.5-turbo-4k_prediction": "b) lgbtq+ individuals",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Why did Melanie choose the adoption agency?",
+        "evidence": [
+          "D2:12"
+        ],
+        "category": 5,
+        "answer": "because of their inclusivity and support for LGBTQ+ individuals",
+        "gpt-3.5-turbo-4k_prediction": "because of their inclusivity and support for LGBTQ+ individuals",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What is Melanie excited about in her adoption process?",
+        "evidence": [
+          "D2:14"
+        ],
+        "category": 5,
+        "answer": "creating a family for kids who need one",
+        "gpt-3.5-turbo-4k_prediction": "creating a family for kids who need one",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What does Melanie's necklace symbolize?",
+        "evidence": [
+          "D4:3"
+        ],
+        "category": 5,
+        "answer": "love, faith, and strength",
+        "gpt-3.5-turbo-4k_prediction": "love, faith, and strength",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What country is Melanie's grandma from?",
+        "evidence": [
+          "D4:3"
+        ],
+        "category": 5,
+        "answer": "Sweden",
+        "gpt-3.5-turbo-4k_prediction": "Sweden",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What was grandma's gift to Melanie?",
+        "evidence": [
+          "D4:3"
+        ],
+        "category": 5,
+        "answer": "necklace",
+        "gpt-3.5-turbo-4k_prediction": "necklace",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What was grandpa's gift to Caroline?",
+        "evidence": [
+          "D4:3"
+        ],
+        "category": 5,
+        "answer": "necklace",
+        "gpt-3.5-turbo-4k_prediction": "necklace",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What is Caroline's hand-painted bowl a reminder of?",
+        "evidence": [
+          "D4:5"
+        ],
+        "category": 5,
+        "answer": "art and self-expression",
+        "gpt-3.5-turbo-4k_prediction": "art and self-expression",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Caroline and her family do while camping?",
+        "evidence": [
+          "D4:8"
+        ],
+        "category": 5,
+        "answer": "explored nature, roasted marshmallows, and went on a hike",
+        "gpt-3.5-turbo-4k_prediction": "explored nature, roasted marshmallows, and went on a hike",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What kind of counseling and mental health services is Melanie interested in pursuing?",
+        "evidence": [
+          "D4:13"
+        ],
+        "category": 5,
+        "answer": "working with trans people, helping them accept themselves and supporting their mental health",
+        "gpt-3.5-turbo-4k_prediction": "working with trans people, helping them accept themselves and supporting their mental health",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What kind of counseling workshop did Melanie attend recently?",
+        "evidence": [
+          "D4:13"
+        ],
+        "category": 5,
+        "answer": "LGBTQ+ counseling workshop",
+        "gpt-3.5-turbo-4k_prediction": "lgbtq+ counseling workshop",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What motivated Melanie to pursue counseling?",
+        "evidence": [
+          "D4:15"
+        ],
+        "category": 5,
+        "answer": "her own journey and the support she received, and how counseling improved her life",
+        "gpt-3.5-turbo-4k_prediction": "her own journey and the support she received, and how counseling improved her life",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What kind of place does Melanie want to create for people?",
+        "evidence": [
+          "D4:15"
+        ],
+        "category": 5,
+        "answer": "a safe and inviting place for people to grow",
+        "gpt-3.5-turbo-4k_prediction": "a safe and inviting place for people to grow",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Did Caroline make the black and white bowl in the photo?",
+        "answer": "No",
+        "evidence": [
+          "D5:8"
+        ],
+        "category": 5,
+        "gpt-3.5-turbo-4k_prediction": "No",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What are the new shoes that Caroline got used for?",
+        "evidence": [
+          "D7:19"
+        ],
+        "category": 5,
+        "answer": "Running",
+        "gpt-3.5-turbo-4k_prediction": "Running",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What is Caroline's reason for getting into running?",
+        "evidence": [
+          "D7:21"
+        ],
+        "category": 5,
+        "answer": "To de-stress and clear her mind",
+        "gpt-3.5-turbo-4k_prediction": "To de-stress and clear her mind",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What does Caroline say running has been great for?",
+        "evidence": [
+          "D7:24"
+        ],
+        "category": 5,
+        "answer": "Her mental health",
+        "gpt-3.5-turbo-4k_prediction": "a) her mental health",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Melanie see at the council meeting for adoption?",
+        "evidence": [
+          "D8:9"
+        ],
+        "category": 5,
+        "answer": "many people wanting to create loving homes for children in need",
+        "gpt-3.5-turbo-4k_prediction": "b) many people wanting to create loving homes for children in need.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What inspired Melanie's painting for the art show?",
+        "evidence": [
+          "D9:16"
+        ],
+        "category": 5,
+        "answer": "visiting an LGBTQ center and wanting to capture unity and strength",
+        "gpt-3.5-turbo-4k_prediction": "b) not mentioned in the conversation.",
+        "gpt-3.5-turbo-4k_f1": 1
+      },
+      {
+        "question": "What inspired Caroline's sculpture for the art show?",
+        "evidence": [
+          "D9:16"
+        ],
+        "category": 5,
+        "answer": "visiting an LGBTQ center and wanting to capture unity and strength",
+        "gpt-3.5-turbo-4k_prediction": "b) not mentioned in the conversation.",
+        "gpt-3.5-turbo-4k_f1": 1
+      },
+      {
+        "question": "How often does Caroline go to the beach with her kids?",
+        "evidence": [
+          "D10:10"
+        ],
+        "category": 5,
+        "answer": "once or twice a year",
+        "gpt-3.5-turbo-4k_prediction": "b) not mentioned in the conversation.",
+        "gpt-3.5-turbo-4k_f1": 1
+      },
+      {
+        "question": "What did Caroline and her family see during their camping trip last year?",
+        "evidence": [
+          "D10:14"
+        ],
+        "category": 5,
+        "answer": "Perseid meteor shower",
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned in the conversation",
+        "gpt-3.5-turbo-4k_f1": 1
+      },
+      {
+        "question": "How did Caroline feel while watching the meteor shower?",
+        "evidence": [
+          "D10:18"
+        ],
+        "category": 5,
+        "answer": "in awe of the universe",
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned in the conversation",
+        "gpt-3.5-turbo-4k_f1": 1
+      },
+      {
+        "question": "Why did Caroline choose to use colors and patterns in her pottery project?",
+        "evidence": [
+          "D12:6"
+        ],
+        "category": 5,
+        "answer": "She wanted to catch the eye and make people smile.",
+        "gpt-3.5-turbo-4k_prediction": "She wanted to catch the eye and make people smile.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Is Oscar Melanie's pet?",
+        "answer": "No",
+        "evidence": [
+          "D13:3"
+        ],
+        "category": 5,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned in the conversation",
+        "gpt-3.5-turbo-4k_f1": 1
+      },
+      {
+        "question": "Where did Oscar hide his bone once?",
+        "evidence": [
+          "D13:6"
+        ],
+        "category": 5,
+        "answer": "In Melanie's slipper",
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned in the conversation",
+        "gpt-3.5-turbo-4k_f1": 1
+      },
+      {
+        "question": "What activity did Melanie used to do with her dad?",
+        "evidence": [
+          "D13:7"
+        ],
+        "category": 5,
+        "answer": "Horseback riding",
+        "gpt-3.5-turbo-4k_prediction": "not mentioned in the conversation",
+        "gpt-3.5-turbo-4k_f1": 1
+      },
+      {
+        "question": "What did Melanie make for a local church?",
+        "evidence": [
+          "D14:17"
+        ],
+        "category": 5,
+        "answer": "a stained glass window",
+        "gpt-3.5-turbo-4k_prediction": "not mentioned in the conversation",
+        "gpt-3.5-turbo-4k_f1": 1
+      },
+      {
+        "question": "What did Melanie find in her neighborhood during her walk?",
+        "evidence": [
+          "D14:23"
+        ],
+        "category": 5,
+        "answer": "a rainbow sidewalk",
+        "gpt-3.5-turbo-4k_prediction": "a rainbow sidewalk",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Which song motivates Melanie to be courageous?",
+        "evidence": [
+          "D15:23"
+        ],
+        "category": 5,
+        "answer": "Brave by Sara Bareilles",
+        "gpt-3.5-turbo-4k_prediction": "not mentioned in the conversation",
+        "gpt-3.5-turbo-4k_f1": 1
+      },
+      {
+        "question": "What type of instrument does Caroline play?",
+        "evidence": [
+          "D15:26"
+        ],
+        "category": 5,
+        "answer": "clarinet and violin",
+        "gpt-3.5-turbo-4k_prediction": "not mentioned in the conversation",
+        "gpt-3.5-turbo-4k_f1": 1
+      },
+      {
+        "question": "Which classical musicians does Caroline enjoy listening to?",
+        "evidence": [
+          "D15:28"
+        ],
+        "category": 5,
+        "answer": "Bach and Mozart",
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned in the conversation",
+        "gpt-3.5-turbo-4k_f1": 1
+      },
+      {
+        "question": "Who is Caroline a fan of in terms of modern music?",
+        "evidence": [
+          "D15:28"
+        ],
+        "category": 5,
+        "answer": "Ed Sheeran",
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned in the conversation",
+        "gpt-3.5-turbo-4k_f1": 1
+      },
+      {
+        "question": "What precautionary sign did Caroline see at the caf\u00e9?",
+        "evidence": [
+          "D16:16"
+        ],
+        "category": 5,
+        "answer": "A sign stating that someone is not being able to leave",
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned in the conversation",
+        "gpt-3.5-turbo-4k_f1": 1
+      },
+      {
+        "question": "What setback did Caroline face recently?",
+        "evidence": [
+          "D17:8"
+        ],
+        "category": 5,
+        "answer": "She got hurt and had to take a break from pottery.",
+        "gpt-3.5-turbo-4k_prediction": "She got hurt and had to take a break from pottery.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What does Caroline do to keep herself busy during her pottery break?",
+        "evidence": [
+          "D17:10"
+        ],
+        "category": 5,
+        "answer": "Read a book and paint.",
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned in the conversation",
+        "gpt-3.5-turbo-4k_f1": 1
+      },
+      {
+        "question": "What was the poetry reading that Melanie attended about?",
+        "evidence": [
+          "D17:18"
+        ],
+        "category": 5,
+        "answer": "It was a transgender poetry reading where transgender people shared their stories.",
+        "gpt-3.5-turbo-4k_prediction": "It was a transgender poetry reading where transgender people shared their stories.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What happened to Caroline's son on their road trip?",
+        "evidence": [
+          "D18:1"
+        ],
+        "category": 5,
+        "answer": "He got into an accident",
+        "gpt-3.5-turbo-4k_prediction": "He got into an accident",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How did Caroline's son handle the accident?",
+        "evidence": [
+          "D18:6",
+          "D18:7"
+        ],
+        "category": 5,
+        "answer": "He was scared but reassured by his family",
+        "gpt-3.5-turbo-4k_prediction": "He was scared but reassured by his family",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How did Caroline feel about her family after the accident?",
+        "evidence": [
+          "D18:5"
+        ],
+        "category": 5,
+        "answer": "They are important and mean the world to her",
+        "gpt-3.5-turbo-4k_prediction": "They are important and mean the world to her",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How did Caroline's children handle the accident?",
+        "evidence": [
+          "D18:7"
+        ],
+        "category": 5,
+        "answer": "They were scared but resilient",
+        "gpt-3.5-turbo-4k_prediction": "They were scared but resilient",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How did Caroline feel after the accident?",
+        "evidence": [
+          "D18:5"
+        ],
+        "category": 5,
+        "answer": "Grateful and thankful for her family",
+        "gpt-3.5-turbo-4k_prediction": "not mentioned in the conversation",
+        "gpt-3.5-turbo-4k_f1": 1
+      },
+      {
+        "question": "What was Caroline's reaction to her children enjoying the Grand Canyon?",
+        "evidence": [
+          "D18:5"
+        ],
+        "category": 5,
+        "answer": "She was happy and thankful",
+        "gpt-3.5-turbo-4k_prediction": "b) she was happy and thankful.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Caroline do after the road trip to relax?",
+        "evidence": [
+          "D18:17"
+        ],
+        "category": 5,
+        "answer": "Went on a nature walk or hike",
+        "gpt-3.5-turbo-4k_prediction": "a) went on a nature walk or hike",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What does Caroline love most about camping with her family?",
+        "evidence": [
+          "D18:21"
+        ],
+        "category": 5,
+        "answer": "Being present and bonding with her family",
+        "gpt-3.5-turbo-4k_prediction": "b) being present and bonding with her family.",
+        "gpt-3.5-turbo-4k_f1": 0
+      }
+    ]
+  }
+]
