@@ -109,6 +109,9 @@ def run_chatgpt(query, num_gen=1, num_tokens_request=1000,
                 messages = [
                         {"role": "system", "content": query}
                     ]
+                
+                # print("messages: ",messages)
+
                 completion = openai.ChatCompletion.create(
                     model="gpt-3.5-turbo",
                     temperature = temperature,
@@ -116,6 +119,10 @@ def run_chatgpt(query, num_gen=1, num_tokens_request=1000,
                     n=num_gen,
                     messages = messages
                 )
+
+                # 打印答案
+                print("completion: ",completion)
+
             elif 'gpt-4' in model:
                 completion = openai.ChatCompletion.create(
                     model=model,

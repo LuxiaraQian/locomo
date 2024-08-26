@@ -106,7 +106,12 @@ def main():
             if args.use_rag and len(recall) > 0:
                 answers['qa'][i][model_key + '_recall'] = round(recall[i], 3)
 
-        out_samples[data['sample_id']] = answers
+        # 仅将 exact_matches 小于 0.4 的结果写入 out_samples
+        filtered_answers = [item for item in answers['qa'] if item[model_key + '_f1'] < 0.4]
+        if filtered_answers:
+            out_samples[data['sample_id']] = {'qa': filtered_answers}
+
+        # out_samples[data['sample_id']] = answers
         count += 1
 
     with open(args.out_file, 'w') as f:

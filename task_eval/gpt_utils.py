@@ -283,6 +283,11 @@ def get_gpt_answers(in_data, out_data, prediction_key, args):
         if args.batch_size == 1:
 
             query = query_conv + '\n\n' + QA_PROMPT.format(questions[0]) if len(cat_5_idxs) == 0 else query_conv + '\n\n' + QA_PROMPT_CAT_5.format(questions[0])
+
+            # 打印query
+            print("query_conv: ",query_conv)
+            print("questions[0]: ",questions[0])
+
             answer = run_chatgpt(query, num_gen=1, num_tokens_request=32, 
                     model='chatgpt' if 'gpt-3.5' in args.model else args.model, 
                     use_16k=True if any([k in args.model for k in ['16k', '12k', '8k', '4k']]) else False, 

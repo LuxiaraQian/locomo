@@ -1,0 +1,3209 @@
+[
+  {
+    "qa": [
+      {
+        "question": "When did Melanie paint a sunrise?",
+        "answer": 2022,
+        "evidence": [
+          "D1:12"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "8 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What fields would Caroline be likely to pursue in her educaton?",
+        "answer": "Psychology, counseling certification",
+        "evidence": [
+          "D1:9",
+          "D1:11"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "counseling or working in mental health",
+        "gpt-3.5-turbo-4k_f1": 0.222
+      },
+      {
+        "question": "When is Melanie planning on going camping?",
+        "answer": "June 2023",
+        "evidence": [
+          "D2:7"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "July",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What is Caroline's relationship status?",
+        "answer": "Single",
+        "evidence": [
+          "D3:13",
+          "D2:14"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "married",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "Where did Caroline move from 4 years ago?",
+        "answer": "Sweden",
+        "evidence": [
+          "D3:13",
+          "D4:3"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "home country",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "What activities does Melanie partake in?",
+        "answer": "pottery, camping, painting, swimming",
+        "evidence": [
+          "D5:4",
+          "D9:1",
+          "D1:12",
+          "D1:18"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "running, reading, playing violin",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Melanie sign up for a pottery class?",
+        "answer": "2 July 2023",
+        "evidence": [
+          "D5:4"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "When is Caroline going to the transgender conference?",
+        "answer": "July 2023",
+        "evidence": [
+          "D5:13"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Last Friday",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Where has Melanie camped?",
+        "answer": "beach, mountains, forest",
+        "evidence": [
+          "D6:16",
+          "D4:6",
+          "D8:32"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "mountains",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "When did Melanie go to the museum?",
+        "answer": "5 July 2023",
+        "evidence": [
+          "D6:4"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "N/A",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "When did Caroline have a picnic?",
+        "answer": "The week before 6 July 2023",
+        "evidence": [
+          "D6:11"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "1:56 pm on 8 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.182
+      },
+      {
+        "question": "Would Caroline likely have Dr. Seuss books on her bookshelf?",
+        "answer": "Yes, since she collects classic children's books",
+        "evidence": [
+          "D6:9"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "No",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What books has Melanie read?",
+        "answer": "\"Nothing is Impossible\", \"Charlotte's Web\"",
+        "evidence": [
+          "D7:8",
+          "D6:10"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "N/A",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Caroline go to the LGBTQ conference?",
+        "answer": "10 July 2023",
+        "evidence": [
+          "D7:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "7:55 pm on 9 June, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.222
+      },
+      {
+        "question": "When did Melanie read the book \"nothing is impossible\"?",
+        "answer": 2022,
+        "evidence": [
+          "D7:8"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "N/A",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "When did Caroline go to the adoption meeting?",
+        "answer": "The friday before 15 July 2023",
+        "evidence": [
+          "D8:9"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "1:14 pm on 25 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.182
+      },
+      {
+        "question": "When did Melanie go to the pottery workshop?",
+        "answer": "The Friday before 15 July 2023",
+        "evidence": [
+          "D8:2"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "N/A",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Would Melanie be considered a member of the LGBTQ community?",
+        "answer": "Likely no, she does not refer to herself as part of it",
+        "evidence": [],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "No",
+        "gpt-3.5-turbo-4k_f1": 0.154
+      },
+      {
+        "question": "What LGBTQ+ events has Caroline participated in?",
+        "answer": "Pride parade, school speech, support group",
+        "evidence": [
+          "D5:1",
+          "D8:17",
+          "D3:1",
+          "D1:3"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Attended LGBTQ support group, LGBTQ counseling workshop",
+        "gpt-3.5-turbo-4k_f1": 0.222
+      },
+      {
+        "question": "When did Caroline go to a pride parade during the summer?",
+        "answer": "The week before 3 July 2023",
+        "evidence": [
+          "D5:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Last week of June",
+        "gpt-3.5-turbo-4k_f1": 0.222
+      },
+      {
+        "question": "What events has Caroline participated in to help children?",
+        "answer": "Mentoring program, school speech",
+        "evidence": [
+          "D9:2",
+          "D3:3"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Attended LGBTQ support group, Researching adoption agencies",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Melanie go camping in July?",
+        "answer": "two weekends before 17 July 2023",
+        "evidence": [
+          "D9:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Last week of June",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "When did Caroline join a mentorship program?",
+        "answer": "The weekend before 17 July 2023",
+        "evidence": [
+          "D9:2"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "8 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "What did Melanie paint recently?",
+        "answer": "sunset",
+        "evidence": [
+          "D8:6; D9:17"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Lake sunrise painting",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "What activities has Melanie done with her family?",
+        "answer": "Pottery, painting, camping, museum, swimming, hiking",
+        "evidence": [
+          "D8:4",
+          "D8:6",
+          "D9:1",
+          "D6:4",
+          "D1:18",
+          "D3:14"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Swimming, Camping",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "In what ways is Caroline participating in the LGBTQ community?",
+        "answer": "Joining activist group, going to pride parades, participating in an art show, mentoring program",
+        "evidence": [
+          "D10:3",
+          "D5:1",
+          "D9:12",
+          "D9:2"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Attending LGBTQ support groups, Researching adoption agencies, LGBTQ counseling workshop",
+        "gpt-3.5-turbo-4k_f1": 0.071
+      },
+      {
+        "question": "How many times has Melanie gone to the beach in 2023?",
+        "answer": 2,
+        "evidence": [
+          "D10:8",
+          "D6:16"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "0",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Caroline join a new activist group?",
+        "answer": "The Tuesday before 20 July 2023",
+        "evidence": [
+          "D10:3"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "25 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "What kind of art does Caroline make?",
+        "answer": "abstract art",
+        "evidence": [
+          "D11:12",
+          "D11:8",
+          "D9:14"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "painting",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When is Melanie's daughter's birthday?",
+        "answer": "13 August",
+        "evidence": [
+          "D11:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Approximately 9 June, 2023",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "When did Caroline attend a pride parade in August?",
+        "answer": "The Friday before 14 August 2023",
+        "evidence": [
+          "D11:4"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "No pride parade in August",
+        "gpt-3.5-turbo-4k_f1": 0.2
+      },
+      {
+        "question": "When did Caroline and Melanie go to a pride fesetival together?",
+        "answer": 2022,
+        "evidence": [
+          "D12:15"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "No pride festival together",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What has Melanie painted?",
+        "answer": "Horse, sunset, sunrise",
+        "evidence": [
+          "D13:8",
+          "D8:6",
+          "D1:12"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "a lake sunrise",
+        "gpt-3.5-turbo-4k_f1": 0.222
+      },
+      {
+        "question": "What are Melanie's pets' names?",
+        "answer": "Oliver, Luna, Bailey",
+        "evidence": [
+          "D13:4",
+          "D7:18"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Caroline apply to adoption agencies?",
+        "answer": "The week of 23 August 2023",
+        "evidence": [
+          "D13:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "25 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "When did Caroline draw a self-portrait?",
+        "answer": "The week before 23 August 2023",
+        "evidence": [
+          "D13:11"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What symbols are important to Caroline?",
+        "answer": "Rainbow flag, transgender symbol",
+        "evidence": [
+          "D14:15",
+          "D4:1"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "love, faith, and strength",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Caroline encounter people on a hike and have a negative experience?",
+        "answer": "The week before 25 August 2023",
+        "evidence": [
+          "D14:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "When did Melanie make a plate in pottery class?",
+        "answer": "24 August 2023",
+        "evidence": [
+          "D14:4"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Would Caroline be considered religious?",
+        "answer": "Somewhat, but not extremely religious",
+        "evidence": [
+          "D14:19",
+          "D12:1"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "Yes",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What musical artists/bands has Melanie seen?",
+        "answer": "Summer Sounds, Matt Patterson",
+        "evidence": [
+          "D15:16",
+          "D11:3"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "none",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Melanie go to the park?",
+        "answer": "27 August 2023",
+        "evidence": [
+          "D15:2"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "25 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "When is Caroline's youth center putting on a talent show?",
+        "answer": "September 2023",
+        "evidence": [
+          "D15:11"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "unknown",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What are some changes Caroline has faced during her transition journey?",
+        "answer": "Changes to her body, losing unsupportive friends",
+        "evidence": [
+          "D16:15",
+          "D11:14"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "embracing herself, seeking support, considering counseling or mental health career",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Caroline go biking with friends?",
+        "answer": "The weekend before 13 September 2023",
+        "evidence": [
+          "D16:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "unknown",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How long has Melanie been practicing art?",
+        "answer": "Since 2016",
+        "evidence": [
+          "D16:8"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "25 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What personality traits might Melanie say Caroline has?",
+        "answer": "Thoughtful, authentic, driven",
+        "evidence": [
+          "D16:18",
+          "D13:16",
+          "D7:4"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "empathy, understanding",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What transgender-specific events has Caroline attended?",
+        "answer": "Poetry reading, conference",
+        "evidence": [
+          "D17:19",
+          "D15:13"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "LGBTQ support group",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "What book did Melanie read from Caroline's suggestion?",
+        "answer": "\"Becoming Nicole\"",
+        "evidence": [
+          "D7:11",
+          "D17:10"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "counseling and mental health book",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Melanie's friend adopt a child?",
+        "answer": 2022,
+        "evidence": [
+          "D17:3"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "25 May, 2023",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "When did Melanie get hurt?",
+        "answer": "September 2023",
+        "evidence": [
+          "D17:8"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "When did Melanie's family go on a roadtrip?",
+        "answer": "The weekend before 20 October 2023",
+        "evidence": [
+          "D18:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How many children does Melanie have?",
+        "answer": 3,
+        "evidence": [
+          "D18:1",
+          "D18:7"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Two",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Melanie go on a hike after the roadtrip?",
+        "answer": "19 October 2023",
+        "evidence": [
+          "D18:17"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "Would Melanie go on another roadtrip soon?",
+        "answer": "Likely no; since this one went badly",
+        "evidence": [
+          "D18:3",
+          "D18:1"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What items has Melanie bought?",
+        "answer": "Figurines, shoes",
+        "evidence": [
+          "D19:2",
+          "D7:18"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Caroline pass the adoption interview?",
+        "answer": "The Friday before 22 October 2023",
+        "evidence": [
+          "D19:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "When did Melanie buy the figurines?",
+        "answer": "21 October 2023",
+        "evidence": [
+          "D19:2"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "10:37 am on 27 June, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.222
+      },
+      {
+        "question": "What does Melanie think about Caroline's decision to adopt?",
+        "answer": "she thinks Caroline is doing something amazing and will be an awesome mom",
+        "evidence": [
+          "D2:15"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "excited for this new chapter",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How long have Mel and her husband been married?",
+        "answer": "Mel and her husband have been married for 5 years.",
+        "evidence": [
+          "D3:16"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "5 years",
+        "gpt-3.5-turbo-4k_f1": 0.364
+      },
+      {
+        "question": "Did Melanie make the black and white bowl in the photo?",
+        "answer": "Yes",
+        "evidence": [
+          "D5:8"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "No",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What kind of books does Caroline have in her library?",
+        "answer": "kids' books - classics, stories from different cultures, educational books",
+        "evidence": [
+          "D6:9"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Many books on counseling and mental health",
+        "gpt-3.5-turbo-4k_f1": 0.133
+      },
+      {
+        "question": "What did Caroline take away from the book \"Becoming Nicole\"?",
+        "answer": "Lessons on self-acceptance and finding support",
+        "evidence": [
+          "D7:13"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "The importance of creating a safe space for trans people",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Mel and her kids make during the pottery workshop?",
+        "answer": "pots",
+        "evidence": [
+          "D8:2"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Bowls with different designs",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What kind of pot did Mel and her kids make with clay?",
+        "answer": "a cup with a dog face on it",
+        "evidence": [
+          "D8:4"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "bowls",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Mel and her kids paint in their latest project in July 2023?",
+        "answer": "a sunset with a palm tree",
+        "evidence": [
+          "D8:6"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "sunset over a lake",
+        "gpt-3.5-turbo-4k_f1": 0.286
+      },
+      {
+        "question": "What did Caroline see at the council meeting for adoption?",
+        "answer": "many people wanting to create loving homes for children in need",
+        "evidence": [
+          "D8:9"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "a sign for a new arrival and an information and domestic building",
+        "gpt-3.5-turbo-4k_f1": 0.111
+      },
+      {
+        "question": "What inspired Caroline's painting for the art show?",
+        "answer": "visiting an LGBTQ center and wanting to capture unity and strength",
+        "evidence": [
+          "D9:16"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "the sunrise over the lake",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How often does Melanie go to the beach with her kids?",
+        "answer": "once or twice a year",
+        "evidence": [
+          "D10:10"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "every weekend",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How did Melanie feel while watching the meteor shower?",
+        "answer": "in awe of the universe",
+        "evidence": [
+          "D10:18"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "amazed and grateful",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Who performed at the concert at Melanie's daughter's birthday?",
+        "answer": "Matt Patterson",
+        "evidence": [
+          "D11:3"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "A magician",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Why did Melanie choose to use colors and patterns in her pottery project?",
+        "answer": "She wanted to catch the eye and make people smile.",
+        "evidence": [
+          "D12:6"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "To express herself creatively",
+        "gpt-3.5-turbo-4k_f1": 0.167
+      },
+      {
+        "question": "What pet does Caroline have?",
+        "answer": "guinea pig",
+        "evidence": [
+          "D13:3"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "A dog",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Where did Oliver hide his bone once?",
+        "answer": "In Melanie's slipper",
+        "evidence": [
+          "D13:6"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Under the couch",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What activity did Caroline used to do with her dad?",
+        "answer": "Horseback riding",
+        "evidence": [
+          "D13:7"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Fishing",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Caroline find in her neighborhood during her walk?",
+        "answer": "a rainbow sidewalk",
+        "evidence": [
+          "D14:23"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "A lost dog",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Who is Melanie a fan of in terms of modern music?",
+        "answer": "Ed Sheeran",
+        "evidence": [
+          "D15:28"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Taylor Swift",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What precautionary sign did Melanie see at the caf\u00e9?",
+        "answer": "A sign stating that someone is not being able to leave",
+        "evidence": [
+          "D16:16"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Wet Floor",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What advice does Caroline give for getting started with adoption?",
+        "answer": "Do research, find an adoption agency or lawyer, gather necessary documents, and prepare emotionally.",
+        "evidence": [
+          "D17:7"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Start with research",
+        "gpt-3.5-turbo-4k_f1": 0.133
+      },
+      {
+        "question": "What setback did Melanie face in October 2023?",
+        "answer": "She got hurt and had to take a break from pottery.",
+        "evidence": [
+          "D17:8"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Pottery studio closed",
+        "gpt-3.5-turbo-4k_f1": 0.167
+      },
+      {
+        "question": "What painting did Melanie show to Caroline on October 13, 2023?",
+        "answer": "A painting inspired by sunsets with a pink sky.",
+        "evidence": [
+          "D17:12"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Sunrise over a lake",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What kind of painting did Caroline share with Melanie on October 13, 2023?",
+        "answer": "An abstract painting with blue streaks on a wall.",
+        "evidence": [
+          "D17:14"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Sunset over a lake",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What was the poetry reading that Caroline attended about?",
+        "answer": "It was a transgender poetry reading where transgender people shared their stories.",
+        "evidence": [
+          "D17:18"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Transgender stories",
+        "gpt-3.5-turbo-4k_f1": 0.308
+      },
+      {
+        "question": "What did the posters at the poetry reading say?",
+        "answer": "\"Trans Lives Matter\"",
+        "evidence": [
+          "D17:19"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "A sunset over a lake",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What does Caroline's drawing symbolize for her?",
+        "answer": "Freedom and being true to herself.",
+        "evidence": [
+          "D17:23"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Acceptance and courage",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How do Melanie and Caroline describe their journey through life together?",
+        "answer": "An ongoing adventure of learning and growing.",
+        "evidence": [
+          "D17:25"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Motivating and helping each other",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How did Melanie feel about her family after the accident?",
+        "answer": "They are important and mean the world to her",
+        "evidence": [
+          "D18:5"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Thankful and grateful",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How did Melanie feel after the accident?",
+        "answer": "Grateful and thankful for her family",
+        "evidence": [
+          "D18:5"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Relieved and grateful",
+        "gpt-3.5-turbo-4k_f1": 0.286
+      },
+      {
+        "question": "How did Melanie feel about her family supporting her?",
+        "answer": "She appreciated them a lot",
+        "evidence": [
+          "D18:13"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Melanie felt grateful for her family's support.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Melanie do after the road trip to relax?",
+        "answer": "Went on a nature walk or hike",
+        "evidence": [
+          "D18:17"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Melanie relaxed by running, reading, or playing her violin.",
+        "gpt-3.5-turbo-4k_f1": 0.133
+      },
+      {
+        "question": "What did Caroline realize after her charity race?",
+        "evidence": [
+          "D2:3"
+        ],
+        "category": 5,
+        "answer": "self-care is important",
+        "gpt-3.5-turbo-4k_prediction": "b) self-care is important.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What are Melanie's plans for the summer with respect to adoption?",
+        "evidence": [
+          "D2:8"
+        ],
+        "category": 5,
+        "answer": "researching adoption agencies",
+        "gpt-3.5-turbo-4k_prediction": "a) researching adoption agencies",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What type of individuals does the adoption agency Melanie is considering support?",
+        "evidence": [
+          "D2:12"
+        ],
+        "category": 5,
+        "answer": "LGBTQ+ individuals",
+        "gpt-3.5-turbo-4k_prediction": "b) lgbtq+ individuals.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Why did Melanie choose the adoption agency?",
+        "evidence": [
+          "D2:12"
+        ],
+        "category": 5,
+        "answer": "because of their inclusivity and support for LGBTQ+ individuals",
+        "gpt-3.5-turbo-4k_prediction": "a) because of their inclusivity and support for lgbtq+ individuals",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What is Melanie excited about in her adoption process?",
+        "evidence": [
+          "D2:14"
+        ],
+        "category": 5,
+        "answer": "creating a family for kids who need one",
+        "gpt-3.5-turbo-4k_prediction": "a) creating a family for kids who need one",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What was grandma's gift to Melanie?",
+        "evidence": [
+          "D4:3"
+        ],
+        "category": 5,
+        "answer": "necklace",
+        "gpt-3.5-turbo-4k_prediction": "b) necklace.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What was grandpa's gift to Caroline?",
+        "evidence": [
+          "D4:3"
+        ],
+        "category": 5,
+        "answer": "necklace",
+        "gpt-3.5-turbo-4k_prediction": "necklace",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What is Caroline's hand-painted bowl a reminder of?",
+        "evidence": [
+          "D4:5"
+        ],
+        "category": 5,
+        "answer": "art and self-expression",
+        "gpt-3.5-turbo-4k_prediction": "art and self-expression",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Caroline and her family do while camping?",
+        "evidence": [
+          "D4:8"
+        ],
+        "category": 5,
+        "answer": "explored nature, roasted marshmallows, and went on a hike",
+        "gpt-3.5-turbo-4k_prediction": "explored nature, roasted marshmallows, and went on a hike",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What kind of counseling and mental health services is Melanie interested in pursuing?",
+        "evidence": [
+          "D4:13"
+        ],
+        "category": 5,
+        "answer": "working with trans people, helping them accept themselves and supporting their mental health",
+        "gpt-3.5-turbo-4k_prediction": "working with trans people, helping them accept themselves and supporting their mental health",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What kind of counseling workshop did Melanie attend recently?",
+        "evidence": [
+          "D4:13"
+        ],
+        "category": 5,
+        "answer": "LGBTQ+ counseling workshop",
+        "gpt-3.5-turbo-4k_prediction": "LGBTQ+ counseling workshop",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What motivated Melanie to pursue counseling?",
+        "evidence": [
+          "D4:15"
+        ],
+        "category": 5,
+        "answer": "her own journey and the support she received, and how counseling improved her life",
+        "gpt-3.5-turbo-4k_prediction": "her own journey and the support she received, and how counseling improved her life",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What kind of place does Melanie want to create for people?",
+        "evidence": [
+          "D4:15"
+        ],
+        "category": 5,
+        "answer": "a safe and inviting place for people to grow",
+        "gpt-3.5-turbo-4k_prediction": "a safe and inviting place for people to grow",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Did Caroline make the black and white bowl in the photo?",
+        "answer": "No",
+        "evidence": [
+          "D5:8"
+        ],
+        "category": 5,
+        "gpt-3.5-turbo-4k_prediction": "No",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What does Caroline say running has been great for?",
+        "evidence": [
+          "D7:24"
+        ],
+        "category": 5,
+        "answer": "Her mental health",
+        "gpt-3.5-turbo-4k_prediction": "a) her mental health",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How often does Caroline go to the beach with her kids?",
+        "evidence": [
+          "D10:10"
+        ],
+        "category": 5,
+        "answer": "once or twice a year",
+        "gpt-3.5-turbo-4k_prediction": "b) once or twice a year.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How did Caroline feel while watching the meteor shower?",
+        "evidence": [
+          "D10:18"
+        ],
+        "category": 5,
+        "answer": "in awe of the universe",
+        "gpt-3.5-turbo-4k_prediction": "b) in awe of the universe.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Why did Caroline choose to use colors and patterns in her pottery project?",
+        "evidence": [
+          "D12:6"
+        ],
+        "category": 5,
+        "answer": "She wanted to catch the eye and make people smile.",
+        "gpt-3.5-turbo-4k_prediction": "b) she wanted to catch the eye and make people smile.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Is Oscar Melanie's pet?",
+        "answer": "No",
+        "evidence": [
+          "D13:3"
+        ],
+        "category": 5,
+        "gpt-3.5-turbo-4k_prediction": "b) no.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Which song motivates Melanie to be courageous?",
+        "evidence": [
+          "D15:23"
+        ],
+        "category": 5,
+        "answer": "Brave by Sara Bareilles",
+        "gpt-3.5-turbo-4k_prediction": "Brave by Sara Bareilles",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What type of instrument does Caroline play?",
+        "evidence": [
+          "D15:26"
+        ],
+        "category": 5,
+        "answer": "clarinet and violin",
+        "gpt-3.5-turbo-4k_prediction": "clarinet and violin",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What does Caroline do to keep herself busy during her pottery break?",
+        "evidence": [
+          "D17:10"
+        ],
+        "category": 5,
+        "answer": "Read a book and paint.",
+        "gpt-3.5-turbo-4k_prediction": "Read a book and paint.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How did Caroline's son handle the accident?",
+        "evidence": [
+          "D18:6",
+          "D18:7"
+        ],
+        "category": 5,
+        "answer": "He was scared but reassured by his family",
+        "gpt-3.5-turbo-4k_prediction": "He was scared but reassured by his family",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How did Caroline feel about her family after the accident?",
+        "evidence": [
+          "D18:5"
+        ],
+        "category": 5,
+        "answer": "They are important and mean the world to her",
+        "gpt-3.5-turbo-4k_prediction": "They are important and mean the world to her",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How did Caroline's children handle the accident?",
+        "evidence": [
+          "D18:7"
+        ],
+        "category": 5,
+        "answer": "They were scared but resilient",
+        "gpt-3.5-turbo-4k_prediction": "They were scared but resilient",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How did Caroline feel after the accident?",
+        "evidence": [
+          "D18:5"
+        ],
+        "category": 5,
+        "answer": "Grateful and thankful for her family",
+        "gpt-3.5-turbo-4k_prediction": "Grateful and thankful for her family",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What was Caroline's reaction to her children enjoying the Grand Canyon?",
+        "evidence": [
+          "D18:5"
+        ],
+        "category": 5,
+        "answer": "She was happy and thankful",
+        "gpt-3.5-turbo-4k_prediction": "She was happy and thankful",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What does Caroline love most about camping with her family?",
+        "evidence": [
+          "D18:21"
+        ],
+        "category": 5,
+        "answer": "Being present and bonding with her family",
+        "gpt-3.5-turbo-4k_prediction": "Being present and bonding with her family",
+        "gpt-3.5-turbo-4k_f1": 0
+      }
+    ]
+  },
+  {
+    "qa": [
+      {
+        "question": "What do Jon and Gina both have in common?",
+        "answer": "They lost their jobs and decided to start their own businesses.",
+        "evidence": [
+          "D1:2",
+          "D1:3",
+          "D1:4",
+          "D2:1"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Passion for dance",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "Why did Jon decide to start his dance studio?",
+        "answer": "He lost his job and decided to start his own business to share his passion.",
+        "evidence": [
+          "D1:2",
+          "D1:4"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Passion for dancing and sharing joy",
+        "gpt-3.5-turbo-4k_f1": 0.211
+      },
+      {
+        "question": "When is Jon's group performing at a festival?",
+        "answer": "February, 2023",
+        "evidence": [
+          "D1:24"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Next month",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Which city have both Jean and John visited?",
+        "answer": "Rome",
+        "evidence": [
+          "D2:5",
+          "D15:1"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Paris",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Gina team up with a local artist for some cool designs?",
+        "answer": "February, 2023",
+        "evidence": [
+          "D5:5"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "2:32 pm on 29 January, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "When did Gina get her tattoo?",
+        "answer": "A few years ago",
+        "evidence": [
+          "D5:15"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "2:32 pm on 29 January, 2023",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "When did Jon start to go to the gym?",
+        "answer": "March, 2023",
+        "evidence": [
+          "D6:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "4:04 pm on 20 January, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "When did Gina open her online clothing store?",
+        "answer": "16 March, 2023",
+        "evidence": [
+          "D6:6"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "2:32 pm on 29 January, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.222
+      },
+      {
+        "question": "When did Jon start expanding his studio's social media presence?",
+        "answer": "April, 2023",
+        "evidence": [
+          "D8:13"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "9:32 am on 8 February, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "When did Jon host a dance competition?",
+        "answer": "May, 2023",
+        "evidence": [
+          "D8:13"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "9:32 am on 8 February, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "When did Jon go to a fair to get more exposure for his dance studio?",
+        "answer": "24 April, 2023",
+        "evidence": [
+          "D10:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "4:04 pm on 20 January, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.222
+      },
+      {
+        "question": "Why did Gina decide to start her own clothing store?",
+        "answer": "She always loved fashion trends and finding unique pieces and she lost her job so decided it was time to start her own business.",
+        "evidence": [
+          "D6:8",
+          "D1:3"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "To get closer to her customers and expand her business.",
+        "gpt-3.5-turbo-4k_f1": 0.258
+      },
+      {
+        "question": "When did Gina interview for a design internship?",
+        "answer": "10 May, 2023",
+        "evidence": [
+          "D11:14"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "4:04 pm on 20 January, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.222
+      },
+      {
+        "question": "When did Gina get accepted for the design internship?",
+        "answer": "27 May, 2023",
+        "evidence": [
+          "D12:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "2:32 pm on 29 January, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.222
+      },
+      {
+        "question": "When did Jon start reading \"The Lean Startup\"?",
+        "answer": "May, 2023",
+        "evidence": [
+          "D12:6"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "4:04 pm on 20 January, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "When did Gina develop a video presentation to teach how to style her fashion pieces? ",
+        "answer": "June, 2023",
+        "evidence": [
+          "D13:4"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "2:32 pm on 29 January, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "How did Gina promote her clothes store?",
+        "answer": "worked with an artist to make unique fashion pieces, made limited-edition sweatshirts, got some new offers and promotions for online store, developed a video presentation showing how to style her pieces",
+        "evidence": [
+          "D5:5",
+          "D16:3",
+          "D8:4",
+          "D13:4"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Launched an ad campaign",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "Which events has Jon participated in to promote his business venture?",
+        "answer": "fair, networking events, dance competition",
+        "evidence": [
+          "D10:1",
+          "D16:6",
+          "D8:4"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Local dance competition and nearby festival",
+        "gpt-3.5-turbo-4k_f1": 0.19
+      },
+      {
+        "question": "What does Jon's dance studio offer?",
+        "answer": "one-on-one metoring and training to dancers,  workshops and classes to local schools and centers",
+        "evidence": [
+          "D13:7",
+          "D8:13"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Dance classes in various styles",
+        "gpt-3.5-turbo-4k_f1": 0.091
+      },
+      {
+        "question": "When did Jon receive mentorship to promote his venture?",
+        "answer": "15 June, 2023",
+        "evidence": [
+          "D14:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "4:04 pm on 20 January, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.222
+      },
+      {
+        "question": "When was Jon in Rome?",
+        "answer": "June 2023",
+        "evidence": [
+          "D15:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "4:04 pm on 20 January, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "How long did it take for Jon to open his studio?",
+        "answer": "six months",
+        "evidence": [
+          "D1:2",
+          "D15:13"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "A few weeks",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Jon visit networking events for his store?",
+        "answer": "20 June, 2023",
+        "evidence": [
+          "D16:6"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "29 January, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "When did Jon and Gina decide to collaborate to create dance content?",
+        "answer": "21 July 2023",
+        "evidence": [
+          "D18:18"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "20 January, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "When did Gina mention Shia Labeouf?",
+        "answer": " 23 July, 2023",
+        "evidence": [
+          "D19:4"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "20 January, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "When did Gina go to a dance class with a group of friends?",
+        "answer": "21 July 2023",
+        "evidence": [
+          "D19:6"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "20 January, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "What does Gina say about the dancers in the photo?",
+        "answer": "They look graceful",
+        "evidence": [
+          "D1:26"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "They're so graceful!",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "What is Jon's attitude towards being part of the dance festival?",
+        "answer": "Glad",
+        "evidence": [
+          "D1:28"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Glad to be part of it",
+        "gpt-3.5-turbo-4k_f1": 0.286
+      },
+      {
+        "question": "What did Gina design for her store?",
+        "answer": "the space, furniture, and decor",
+        "evidence": [
+          "D3:4"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "a cozy and inviting space",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "What did Gina want her customers to feel in her store?",
+        "answer": "cozy and comfortable",
+        "evidence": [
+          "D3:6",
+          "D3:8"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "like they're in a cool oasis",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What made Gina choose the furniture and decor for her store?",
+        "answer": "personal style and customer comfort",
+        "evidence": [
+          "D3:6"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Make the place look like my own style and make my customers feel cozy",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "What does Gina's tattoo symbolize?",
+        "answer": "Freedom and expressing herself through dance",
+        "evidence": [
+          "D5:15"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Freedom - dancing without worrying what people think",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "What did Jon and Gina compare their entrepreneurial journeys to?",
+        "answer": "dancing together and supporting each other",
+        "evidence": [
+          "D6:15",
+          "D6:16"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Chasing our dreams",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What advice does Gina give to Jon about running a successful business?",
+        "answer": "build relationships with customers, create a strong brand image, stay positive",
+        "evidence": [
+          "D7:5"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Believe in yourself, push through and it'll be worth it",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Why did Jon shut down his bank account?",
+        "answer": "for his business",
+        "evidence": [
+          "D8:1"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Lost my job as a banker",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Why did Gina combine her clothing business with dance?",
+        "answer": "she is passionate about dance and fashion",
+        "evidence": [
+          "D8:8"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Starting your own business sounds awesome",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What does Jon's dance make him?",
+        "answer": "happy",
+        "evidence": [
+          "D9:5"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "passionate and fulfilled",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Gina receive from a dance contest?",
+        "answer": "a trophy",
+        "evidence": [
+          "D9:10"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "first place at a regionals",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How does Gina stay confident in her business?",
+        "answer": "By reminding herself of her successes and progress, having a support system, and focusing on why she started",
+        "evidence": [
+          "D10:8"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "by following her passions and expressing herself",
+        "gpt-3.5-turbo-4k_f1": 0.286
+      },
+      {
+        "question": "What kind of professional experience did Gina get accepted for on May 23, 2023?",
+        "answer": "fashion internship",
+        "evidence": [
+          "D12:1"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "wholesalers",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Where is Gina's fashion internship?",
+        "answer": "fashion department of an international company",
+        "evidence": [
+          "D12:3"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What book is Jon currently reading?",
+        "answer": "The Lean Startup",
+        "evidence": [
+          "D12:6"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What is Jon offering to the dancers at his dance studio?",
+        "answer": "One-on-one mentoring and training",
+        "evidence": [
+          "D13:7"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "a chance to show their skillz and get some props",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How does Jon use the clipboard with a notepad attached to it?",
+        "answer": "To set goals, track achievements, and find areas for improvement",
+        "evidence": [
+          "D13:11"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "to write down his dreams and goals",
+        "gpt-3.5-turbo-4k_f1": 0.267
+      },
+      {
+        "question": "What does Jon tell Gina he won't do?",
+        "answer": "quit",
+        "evidence": [
+          "D14:17"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "give up on his dreams",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Jon take a trip to Rome for?",
+        "answer": "To clear his mind",
+        "evidence": [
+          "D15:1"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "never had a chance to visit it",
+        "gpt-3.5-turbo-4k_f1": 0.2
+      },
+      {
+        "question": "How does Gina describe the studio that Jon has opened?",
+        "answer": "amazing",
+        "evidence": [
+          "D15:6"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "cozy and inviting",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How does Jon feel about the opening night of his dance studio?",
+        "answer": "excited",
+        "evidence": [
+          "D15:7"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "super keen",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How does Gina describe the feeling that dance brings?",
+        "answer": "magical",
+        "evidence": [
+          "D15:8"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "joy and fulfillment",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What does Jon plan to do at the grand opening of his dance studio?",
+        "answer": "savor all the good vibes",
+        "evidence": [
+          "D15:9"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "perform at a nearby festival",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What does Gina say to Jon about the grand opening?",
+        "answer": "Let's live it up and make some great memories",
+        "evidence": [
+          "D15:12"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "can't wait to see them rock the festival",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Gina make a limited edition line of?",
+        "answer": "Hoodies",
+        "evidence": [
+          "D16:3"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "clothing",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "According to Gina, what makes Jon a perfect mentor and guide?",
+        "answer": "His positivity and determination",
+        "evidence": [
+          "D17:7"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "passion and dedication",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What plans does Jon have after receiving advice at the networking event?",
+        "answer": "Sprucing up his business plan, tweaking his pitch to investors, and working on an online platform.",
+        "evidence": [
+          "D18:10"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Keep chasing after dreams",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What is Jon's favorite style of painting?",
+        "evidence": [
+          "D1:8"
+        ],
+        "category": 5,
+        "answer": "Contemporary",
+        "gpt-3.5-turbo-4k_prediction": "a) contemporary",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What was Jon's favorite dancing memory?",
+        "evidence": [
+          "D1:17"
+        ],
+        "category": 5,
+        "answer": "Winning first place at a regionals dance competition",
+        "gpt-3.5-turbo-4k_prediction": "a) winning first place at a regionals dance competition",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What kind of dance piece did Jon's team perform to win first place?",
+        "evidence": [
+          "D1:19"
+        ],
+        "category": 5,
+        "answer": "\"Finding Freedom\"",
+        "gpt-3.5-turbo-4k_prediction": "a) 'finding freedom'",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What kind of flooring is Gina looking for in her dance studio?",
+        "evidence": [
+          "D2:8"
+        ],
+        "category": 5,
+        "answer": "Marley flooring",
+        "gpt-3.5-turbo-4k_prediction": "b) marley flooring",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Jon find for his clothing store on 1 February, 2023?",
+        "evidence": [
+          "D3:2"
+        ],
+        "category": 5,
+        "answer": "The perfect spot for her store",
+        "gpt-3.5-turbo-4k_prediction": "a) the perfect spot for her store",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Jon design for his store?",
+        "evidence": [
+          "D3:4"
+        ],
+        "category": 5,
+        "answer": "the space, furniture, and decor",
+        "gpt-3.5-turbo-4k_prediction": "b) the space, furniture, and decor",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Jon want his customers to feel in her store?",
+        "evidence": [
+          "D3:6",
+          "D3:8"
+        ],
+        "category": 5,
+        "answer": "cozy and comfortable",
+        "gpt-3.5-turbo-4k_prediction": "a) cozy and comfortable",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What made Jon choose the furniture and decor for his store?",
+        "evidence": [
+          "D3:6"
+        ],
+        "category": 5,
+        "answer": "personal style and customer comfort",
+        "gpt-3.5-turbo-4k_prediction": "a) personal style and customer comfort",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How is Jon's store doing?",
+        "evidence": [
+          "D4:2"
+        ],
+        "category": 5,
+        "answer": "The store is doing great.",
+        "gpt-3.5-turbo-4k_prediction": "a) the store is doing great.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Why did Gina shut down her bank account?",
+        "evidence": [
+          "D8:1"
+        ],
+        "category": 5,
+        "answer": "for her business",
+        "gpt-3.5-turbo-4k_prediction": "b) for her business.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What kind of professional experience did Jon get accepted for on May 23, 2023?",
+        "evidence": [
+          "D12:1"
+        ],
+        "category": 5,
+        "answer": "fashion internship",
+        "gpt-3.5-turbo-4k_prediction": "b) fashion internship.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What book is Gina currently reading?",
+        "evidence": [
+          "D12:6"
+        ],
+        "category": 5,
+        "answer": "The Lean Startup",
+        "gpt-3.5-turbo-4k_prediction": "b) the lean startup.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What plans does Gina have after receiving advice at the networking event?",
+        "evidence": [
+          "D18:10"
+        ],
+        "category": 5,
+        "answer": "Sprucing up her business plan, tweaking her pitch to investors, and working on an online platform.",
+        "gpt-3.5-turbo-4k_prediction": "Sprucing up her business plan, tweaking her pitch to investors, and working on an online platform.",
+        "gpt-3.5-turbo-4k_f1": 0
+      }
+    ]
+  },
+  {
+    "qa": [
+      {
+        "question": "Who did Maria have dinner with on May 3, 2023?",
+        "answer": "her mother",
+        "evidence": [
+          "D13:16"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "John",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "When did Maria go to the beach?",
+        "answer": "December 2022",
+        "evidence": [
+          "D3:15"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "8:30 pm on 1 January, 2023",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Where has Maria made friends?",
+        "answer": "homeless shelter, gym, church",
+        "evidence": [
+          "D4:1",
+          "D2:1",
+          "D19:1",
+          "D14:10"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "At a homeless shelter",
+        "gpt-3.5-turbo-4k_f1": 0.267
+      },
+      {
+        "question": "What might John's financial status be?",
+        "answer": "Middle-class or wealthy",
+        "evidence": [
+          "D5:5"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "Financially stable",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "When did Maria meet Jean?",
+        "answer": "February 24, 2023",
+        "evidence": [
+          "D7:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "9 January, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "What people has Maria met and helped while volunteering?",
+        "answer": "David, Jean, Cindy, Laura",
+        "evidence": [
+          "D7:5",
+          "D6:5",
+          "D27:8",
+          "D21:19"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Homeless individuals",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Maria's grandmother pass away?",
+        "answer": "The week before 6 March 2023",
+        "evidence": [
+          "D8:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What writing classes has Maria taken?",
+        "answer": "Poetry, creative writing",
+        "evidence": [
+          "D9:1",
+          "D7:1"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Aerial yoga",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did John get his degree?",
+        "answer": "The week before 2 April 2023",
+        "evidence": [
+          "D9:2"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What might John's degree be in?",
+        "answer": "Political science, Public administration, Public affairs",
+        "evidence": [
+          "D9:6"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Who did John go to yoga with?",
+        "answer": "Rob",
+        "evidence": [
+          "D7:16",
+          "D10:1"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did John take a road trip to the Pacific Northwest?",
+        "answer": "2022",
+        "evidence": [
+          "D11:3",
+          "D11:5"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "11:01 am on 17 December, 2022",
+        "gpt-3.5-turbo-4k_f1": 0.286
+      },
+      {
+        "question": "When did John go to a convention with colleagues?",
+        "answer": "March 2023",
+        "evidence": [
+          "D12:9"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "6:10 pm on 22 December, 2022",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "When did John start boot camp with his family?",
+        "answer": "April.2023",
+        "evidence": [
+          "D13:3"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "11:01 am on 17 December, 2022",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What European countries has Maria been to?",
+        "answer": "Spain, England",
+        "evidence": [
+          "D13:24",
+          "D8:15"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "None",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "What has Maria done to feel closer to her faith?",
+        "answer": "Join a local church, buy a cross necklace",
+        "evidence": [
+          "D14:10",
+          "D11:10"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "aerial yoga",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did John have a party with veterans?",
+        "answer": "The Friday before 20 May 2023",
+        "evidence": [
+          "D15:11"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "11:01 am on 17 December, 2022",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What causes does John feel passionate about supporting?",
+        "answer": "Veterans, schools, infrastructure",
+        "evidence": [
+          "D15:3",
+          "D12:5",
+          "D9:8",
+          "D1:8"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "improving education and infrastructure",
+        "gpt-3.5-turbo-4k_f1": 0.167
+      },
+      {
+        "question": "What events is Maria planning for the homeless shelter funraiser?",
+        "answer": "Chili cook-off, ring-toss tournament",
+        "evidence": [
+          "D16:4",
+          "D15:18"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "toy drive and food distribution",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did John get his dog Max?",
+        "answer": "In 2013",
+        "evidence": [
+          "D17:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "28 January, 2023",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What outdoor activities has John done with his colleagues?",
+        "answer": "Hiking, mountaineering",
+        "evidence": [
+          "D18:2",
+          "D16:2"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "climbing, sliding, playing games",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "What types of yoga has Maria practiced?",
+        "answer": "Aerial, kundalini",
+        "evidence": [
+          "D1:3",
+          "D18:15",
+          "D19:3"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "aerial yoga",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "When did Maria join a gym?",
+        "answer": "The week before 16 June 2023",
+        "evidence": [
+          "D19:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "17 December, 2022",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What states has Maria vacationed at?",
+        "answer": "Oregon, Florida",
+        "evidence": [
+          "D19:23",
+          "D18:3"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "None",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "What music events has John attended?",
+        "answer": "Live music event, violin concert",
+        "evidence": [
+          "D20:4",
+          "D8:12"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "None",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "What events for veterans has John participated in?",
+        "answer": "Petition, march, party, visiting veterans hospital, 5K charity run",
+        "evidence": [
+          "D15:1",
+          "D15:11",
+          "D21:22",
+          "D24:1",
+          "D29:4"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "None",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Maria get in a car accident?",
+        "answer": "July 2, 2023",
+        "evidence": [
+          "D21:3"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "9 January, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "Around which US holiday did Maria get into a car accident?",
+        "answer": "Independence Day",
+        "evidence": [
+          "D21:3"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "Christmas",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What are the names of John's children?",
+        "answer": "Kyle, Sara",
+        "evidence": [
+          "D8:4",
+          "D22:7"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "What area was hit by a flood?",
+        "answer": "West County",
+        "evidence": [
+          "D14:21",
+          "D23:1"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "John's old area",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When was John's old area hit with a flood?",
+        "answer": "The week before 7 July 2023",
+        "evidence": [
+          "D23:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Around 17 December, 2022",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What activities has Maria done with her church friends?",
+        "answer": "Hiking, picnic, volunteer work",
+        "evidence": [
+          "D25:2",
+          "D24:6",
+          "D28:5"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Watch movies, hike, have game nights",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "Would John be open to moving to another country?",
+        "answer": "No, he has goals specifically in the U.S. like joining the military and running for office.",
+        "evidence": [
+          "D24:3",
+          "D7:2"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "No",
+        "gpt-3.5-turbo-4k_f1": 0.143
+      },
+      {
+        "question": "When did Maria go hiking with her church friends?",
+        "answer": "The weekend before 22 July 2023",
+        "evidence": [
+          "D25:2"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What exercises has John done?",
+        "answer": "Weight training, Circuit training, Kickboxing, yoga",
+        "evidence": [
+          "D25:17",
+          "D25:13",
+          "D10:1",
+          "D1:4"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Kickboxing",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "When did John have his first firefighter call-out?",
+        "answer": "The sunday before 3` July 2023",
+        "evidence": [
+          "D26:4"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What food item did Maria drop off at the homeless shelter?",
+        "answer": "Cakes",
+        "evidence": [
+          "D26:1",
+          "D25:19"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Food and supplies",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Maria start volunteering at the homeless shelter?",
+        "answer": "Around August 2022",
+        "evidence": [
+          "D27:4"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "22 December, 2022",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "Who have written notes of gratitude to Maria?",
+        "answer": "Cindy, Laura",
+        "evidence": [
+          "D27:8",
+          "D21:19"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "John",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Maria take up community work with her church friends?",
+        "answer": "August 4, 2023",
+        "evidence": [
+          "D28:8"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "When did Maria receive a medal from the homeless shelter?",
+        "answer": "The week before 9 August 2023",
+        "evidence": [
+          "D29:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "When did John participate in a 5K charity run?",
+        "answer": "first weekend of August 2023",
+        "evidence": [
+          "D29:2",
+          "D29:4"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What causes has John done events for?",
+        "answer": "Toy drive, Community food drive, veterans, domestic violence",
+        "evidence": [
+          "D3:5",
+          "D6:12",
+          "D29:4",
+          "D29:10"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "Homeless shelter, education, infrastructure",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "When did Maria get Coco?",
+        "answer": "Two weeks before 11 August 2023",
+        "evidence": [
+          "D30:1"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "When did John go on a camping trip with Max?",
+        "answer": "The summer of 2022",
+        "evidence": [
+          "D30:6"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "When did Maria adopt Shadow?",
+        "answer": "The week before 13 August 2023",
+        "evidence": [
+          "D31:2"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "8:30 pm on 1 January, 2023",
+        "gpt-3.5-turbo-4k_f1": 0.182
+      },
+      {
+        "question": "How many dogs has Maria adopted from the dog shelter she volunteers at?",
+        "answer": "two",
+        "evidence": [
+          "D30:1",
+          "D31:2"
+        ],
+        "category": 1,
+        "gpt-3.5-turbo-4k_prediction": "2",
+        "gpt-3.5-turbo-4k_f1": 0.0
+      },
+      {
+        "question": "What job might Maria pursue in the future?",
+        "answer": "Shelter coordinator, Counselor",
+        "evidence": [
+          "D32:14",
+          "D5:8",
+          "D11:10",
+          "D27:4"
+        ],
+        "category": 3,
+        "gpt-3.5-turbo-4k_prediction": "Local politics",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Why did Maria sit with the little girl at the shelter event in February 2023?",
+        "answer": "The girl seemed sad and had no other family",
+        "evidence": [
+          "D5:10"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "to comfort her as she was feeling down",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Jean go through before meeting Maria?",
+        "answer": "divorce, job loss, homelessness",
+        "evidence": [
+          "D7:7"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "an unexpected incident on his way home",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Why did John decide to run for office again?",
+        "answer": "saw the impact he could make in the community through politics",
+        "evidence": [
+          "D7:4"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "passion for helping the community and making it a better place",
+        "gpt-3.5-turbo-4k_f1": 0.235
+      },
+      {
+        "question": "What activity did John's colleague, Rob, invite him to?",
+        "answer": "beginner's yoga class",
+        "evidence": [
+          "D7:16"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "kickboxing",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What is the name of John's one-year-old child?",
+        "answer": "Kyle",
+        "evidence": [
+          "D8:4"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "not mentioned",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How often does John take his kids to the park?",
+        "answer": "A few times a week",
+        "evidence": [
+          "D8:8"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "every weekend",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Maria make for her home to remind her of a trip to England?",
+        "answer": "painting of a castle on a hill",
+        "evidence": [
+          "D8:15"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Castle shadow box",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "What did John receive a certificate for?",
+        "answer": "completion of a university degree",
+        "evidence": [
+          "D9:2"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Kickboxing",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Maria participate in last weekend before April 10, 2023?",
+        "answer": "a 5K charity run",
+        "evidence": [
+          "D10:10"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Volunteering at a homeless shelter",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What event did John volunteer at last weekend?",
+        "answer": "career fair at a local school",
+        "evidence": [
+          "D10:13"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Toy drive for kids in need",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did John do that put a strain on his wallet?",
+        "answer": "His car broke down",
+        "evidence": [
+          "D11:1"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Family road trip",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Where did John explore on a road trip last year?",
+        "answer": "Pacific Northwest",
+        "evidence": [
+          "D11:5"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Local parks and nature reserves",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What topic has John been blogging about recently?",
+        "answer": "politics and the government",
+        "evidence": [
+          "D12:1"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Local politics and community needs",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "Why did John start blogging about politics and policies?",
+        "answer": "raise awareness and start conversations to create positive change",
+        "evidence": [
+          "D12:3"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "To make a positive impact and prevent future generations from facing the same issues",
+        "gpt-3.5-turbo-4k_f1": 0.211
+      },
+      {
+        "question": "What did John attend with his colleagues in March 2023?",
+        "answer": "a tech-for-good convention",
+        "evidence": [
+          "D12:9"
+        ],
+        "category": 2,
+        "gpt-3.5-turbo-4k_prediction": "Community meeting on education and infrastructure upgrades in March 2023",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How often does John work out with his family?",
+        "answer": "Three times a week",
+        "evidence": [
+          "D13:7"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Regularly",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What kind of food did Maria have on her dinner spread iwth her mother?",
+        "answer": "Salads, sandwiches, homemade desserts",
+        "evidence": [
+          "D13:18"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Peach cobbler",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What activity did Maria and her mom do together in May 2023?",
+        "answer": "Made dinner together",
+        "evidence": [
+          "D13:16"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Aerial yoga",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Maria do to feel closer to a community and her faith?",
+        "answer": "joined a nearby church",
+        "evidence": [
+          "D14:10"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Attended a church service",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "What emotions did John feel during the small party with the veterans?",
+        "answer": "heartwarming",
+        "evidence": [
+          "D15:13"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Grateful and emotional",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What does Maria need to spread the word about for the fundraiser for the volunteer shelter?",
+        "answer": "chili cook-off",
+        "evidence": [
+          "D16:4"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Upcoming fundraiser",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What new activity did Maria start recently, as mentioned on 3 June, 2023?",
+        "answer": "volunteering at a local dog shelter once a month",
+        "evidence": [
+          "D17:12"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Aerial yoga",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Maria say it was like being at the waterfall in Oregon?",
+        "answer": "Like being in a fairy tale",
+        "evidence": [
+          "D18:7"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Peaceful and serene",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What does Maria say she feels when doing upside-down yoga poses?",
+        "answer": "Free and light",
+        "evidence": [
+          "D18:17"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Empowered",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What exciting news did Maria share on 16 June, 2023?",
+        "answer": "joined a gym",
+        "evidence": [
+          "D19:1"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Maria shared that she's now friends with one of her fellow volunteers.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What was one of the biggest challenges John faced in his journey to becoming assistant manager?",
+        "answer": "self-doubt",
+        "evidence": [
+          "D19:12"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Balancing work and family responsibilities",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How does John describe the support he received during his journey to becoming assistant manager?",
+        "answer": "having support at home and his own grit",
+        "evidence": [
+          "D19:12"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "John describes the support as crucial and motivating.",
+        "gpt-3.5-turbo-4k_f1": 0.154
+      },
+      {
+        "question": "What kind of event did John and his family attend in June 2023?",
+        "answer": "live music event",
+        "evidence": [
+          "D20:4"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "A family road trip",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Why did Maria need to help her cousin find a new place to live?",
+        "answer": "Her cousin had to leave and find a new place in a hurry.",
+        "evidence": [
+          "D21:5"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Her cousin was facing housing issues.",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "What inspired John to join the marching event for veterans' rights?",
+        "answer": "Respect for the military and the desire to show support",
+        "evidence": [
+          "D21:24"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "His grandfather's service in the military inspired him.",
+        "gpt-3.5-turbo-4k_f1": 0.143
+      },
+      {
+        "question": "How often does John get to see sunsets like the one he shared with Maria?",
+        "answer": "At least once a week",
+        "evidence": [
+          "D22:17"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "John gets to see sunsets like the one he shared with Maria often.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What natural disaster affected John's old area on 7 July, 2023?",
+        "answer": "Flood",
+        "evidence": [
+          "D23:1"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "No natural disaster affected John's old area on 7 July, 2023.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How did the flood impact the homes in John's old area?",
+        "answer": "Lots of homes were ruined.",
+        "evidence": [
+          "D23:1"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "There was no flood impact on the homes in John's old area.",
+        "gpt-3.5-turbo-4k_f1": 0.125
+      },
+      {
+        "question": "What motivated Maria and John to discuss potential solutions for their community on 7 July, 2023?",
+        "answer": "Flood in John's old area",
+        "evidence": [
+          "D23:1"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Maria and John discussed potential solutions for their community due to John's interest in local politics and improving education and infrastructure.",
+        "gpt-3.5-turbo-4k_f1": 0.174
+      },
+      {
+        "question": "What did Maria plan to do later on the evening of 7 July, 2023?",
+        "answer": "have dinner with friends from the gym",
+        "evidence": [
+          "D23:14"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Maria planned to do taekwondo later on the evening of 7 July, 2023.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What kind of activities did Maria do at the picnic with her church friends?",
+        "answer": "played games like charades and a scavenger hunt",
+        "evidence": [
+          "D24:8"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Maria and her church friends climbed, slid, and played games at the picnic.",
+        "gpt-3.5-turbo-4k_f1": 0.25
+      },
+      {
+        "question": "What did John take away from visiting the veteran's hospital?",
+        "answer": "appreciation for giving back",
+        "evidence": [
+          "D24:1"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "From visiting the veteran's hospital, John took away a sense of gratitude and respect for the veterans.",
+        "gpt-3.5-turbo-4k_f1": 0.118
+      },
+      {
+        "question": "Why did John feel inspired to join the military after the visit to the hospital?",
+        "answer": "seeing the resilience of the veterans",
+        "evidence": [
+          "D24:3"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "John felt inspired to join the military after the visit to the hospital due to the bravery and sacrifices of the veterans.",
+        "gpt-3.5-turbo-4k_f1": 0.2
+      },
+      {
+        "question": "In what activity did Maria and her church friends participate in July 2023?",
+        "answer": "hiking",
+        "evidence": [
+          "D25:2"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Maria and her church friends participated in kickboxing classes in July 2023.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What does John think about trying new classes at the yoga studio?",
+        "answer": "Trying new classes is a fun way to switch up the exercise routine.",
+        "evidence": [
+          "D25:14"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "John thinks kickboxing is a perfect way to stay in shape and de-stress.",
+        "gpt-3.5-turbo-4k_f1": 0.273
+      },
+      {
+        "question": "Which activity has John done apart from yoga at the studio?",
+        "answer": "weight training",
+        "evidence": [
+          "D25:17"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Kickboxing",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What community service did Maria mention that she was involved in on 31 July, 2023?",
+        "answer": "volunteered at a homeless shelter",
+        "evidence": [
+          "D26:1"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Donating her old car to a homeless shelter",
+        "gpt-3.5-turbo-4k_f1": 0.364
+      },
+      {
+        "question": "How did Maria start volunteering at the homeless shelter?",
+        "answer": "Witnessed a family struggling on the streets and reached out to the shelter",
+        "evidence": [
+          "D27:4"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Started by volunteering at the homeless shelter",
+        "gpt-3.5-turbo-4k_f1": 0.133
+      },
+      {
+        "question": "What did John do the week before August 3, 2023 involving his kids?",
+        "answer": "Had a meaningful experience at a military memorial",
+        "evidence": [
+          "D27:9"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Organized a toy drive for kids in need",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How did John describe his kids' reaction at the military memorial?",
+        "answer": "awestruck and humbled",
+        "evidence": [
+          "D27:11"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "They were solemn and respectful",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Why does Maria think it's important for younger generations to visit military memorials?",
+        "answer": "To remember and appreciate those who served",
+        "evidence": [
+          "D27:12"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "To learn about the sacrifices made for their freedom",
+        "gpt-3.5-turbo-4k_f1": 0.143
+      },
+      {
+        "question": "What does John believe is important for children regarding veterans?",
+        "answer": "Teaching them to respect and appreciate those who served",
+        "evidence": [
+          "D27:13"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "To understand the importance of honoring veterans",
+        "gpt-3.5-turbo-4k_f1": 0.143
+      },
+      {
+        "question": "What happened to John's job in August 2023?",
+        "answer": "John lost his job at the mechanical engineering company.",
+        "evidence": [
+          "D28:1"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "He lost his job due to budget cuts",
+        "gpt-3.5-turbo-4k_f1": 0.375
+      },
+      {
+        "question": "What activity did Maria take up with her friends from church in August 2023?",
+        "answer": "community work",
+        "evidence": [
+          "D28:8"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Aerial yoga",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What cause did the 5K charity run organized by John support?",
+        "answer": "veterans and their families",
+        "evidence": [
+          "D29:4"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Mental health awareness",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Who did John work with to raise awareness and funds for victims of domestic abuse?",
+        "answer": "a local organization",
+        "evidence": [
+          "D29:10"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Max",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What recognition did Maria receive at the homeless shelter in August 2023?",
+        "answer": "a medal for volunteering",
+        "evidence": [
+          "D29:1"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Volunteer of the Month",
+        "gpt-3.5-turbo-4k_f1": 0.333
+      },
+      {
+        "question": "What is the name of Maria's puppy she got two weeks before August 11, 2023?",
+        "answer": "Coco",
+        "evidence": [
+          "D30:1"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Buddy",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How does John describe the camping trip with Max?",
+        "answer": "Peaceful and awesome",
+        "evidence": [
+          "D30:6"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Great bonding time",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Why does John say he feels stuck and questioning his decisions and goals?",
+        "answer": "Not feeling like making much of an impact",
+        "evidence": [
+          "D30:14"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Feeling stagnant and uncertain",
+        "gpt-3.5-turbo-4k_f1": 0.2
+      },
+      {
+        "question": "What is the name of Maria's second puppy?",
+        "answer": "Shadow",
+        "evidence": [
+          "D31:4"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Luna",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How is Maria's new puppy adjusting to its new home?",
+        "answer": "doing great - learning commands and house training",
+        "evidence": [
+          "D31:10"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Settling in well",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What is John currently doing as a volunteer in August 2023?",
+        "answer": "mentoring students at a local school",
+        "evidence": [
+          "D31:1"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "Networking with local leaders and organizations",
+        "gpt-3.5-turbo-4k_f1": 0.2
+      },
+      {
+        "question": "What activities does John's family enjoy doing together?",
+        "answer": "going for hikes, hanging out at the park, having picnics, playing board games, having movie nights",
+        "evidence": [
+          "D31:19"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "climbing, sliding, playing games",
+        "gpt-3.5-turbo-4k_f1": 0.211
+      },
+      {
+        "question": "What did the donations help John's community acquire on 16 August, 2023?",
+        "answer": "a brand new fire truck",
+        "evidence": [
+          "D32:11"
+        ],
+        "category": 4,
+        "gpt-3.5-turbo-4k_prediction": "repairs and renovations for a school",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What is John's main focus in international politics?",
+        "evidence": [
+          "D1:8"
+        ],
+        "category": 5,
+        "answer": "Improving education and infrastructure",
+        "gpt-3.5-turbo-4k_prediction": "improving education and infrastructure",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Maria donate to a luxury store in December 2023?",
+        "evidence": [
+          "D2:1"
+        ],
+        "category": 5,
+        "answer": "old car",
+        "gpt-3.5-turbo-4k_prediction": "old car",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What areas is John particularly interested in for art appreciation?",
+        "evidence": [
+          "D9:8"
+        ],
+        "category": 5,
+        "answer": "education and infrastructure",
+        "gpt-3.5-turbo-4k_prediction": "education and infrastructure",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Why did Maria start blogging about politics and policies?",
+        "evidence": [
+          "D12:3"
+        ],
+        "category": 5,
+        "answer": "raise awareness and start conversations to create positive change",
+        "gpt-3.5-turbo-4k_prediction": "raise awareness and start conversations to create positive change",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What was the focus of John's recent travel and photography blog?",
+        "evidence": [
+          "D12:5"
+        ],
+        "category": 5,
+        "answer": "education reform and infrastructure development",
+        "gpt-3.5-turbo-4k_prediction": "education reform and infrastructure development",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How has John's artistic skills improved since starting boot camps with his family?",
+        "evidence": [
+          "D13:5"
+        ],
+        "category": 5,
+        "answer": "More energy, gains in strength and endurance",
+        "gpt-3.5-turbo-4k_prediction": "More energy, gains in strength and endurance",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How does Maria plan to honor the memories of her beloved pet?",
+        "evidence": [
+          "D17:11"
+        ],
+        "category": 5,
+        "answer": "By considering adopting a rescue dog",
+        "gpt-3.5-turbo-4k_prediction": "By considering adopting a rescue dog",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What important values does Maria want to teach her kids through adopting a rescue dog?",
+        "evidence": [
+          "D17:11"
+        ],
+        "category": 5,
+        "answer": "Responsibility and compassion",
+        "gpt-3.5-turbo-4k_prediction": "Responsibility and compassion",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did Maria recently get promoted to?",
+        "evidence": [
+          "D19:8"
+        ],
+        "category": 5,
+        "answer": "assistant manager",
+        "gpt-3.5-turbo-4k_prediction": "assistant manager",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What was one of the biggest challenges Maria faced in her journey to becoming assistant manager?",
+        "evidence": [
+          "D19:12"
+        ],
+        "category": 5,
+        "answer": "self-doubt",
+        "gpt-3.5-turbo-4k_prediction": "self-doubt",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How did the drought impact the homes in John's old area?",
+        "evidence": [
+          "D23:1"
+        ],
+        "category": 5,
+        "answer": "Lots of homes were ruined.",
+        "gpt-3.5-turbo-4k_prediction": "Lots of homes were ruined.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What did John take away from visiting the orphanage?",
+        "evidence": [
+          "D24:1"
+        ],
+        "category": 5,
+        "answer": "appreciation for giving back",
+        "gpt-3.5-turbo-4k_prediction": "appreciation for giving back",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Why does Maria think it's important for younger generations to visit art galleries?",
+        "evidence": [
+          "D27:12"
+        ],
+        "category": 5,
+        "answer": "To remember and appreciate those who served",
+        "gpt-3.5-turbo-4k_prediction": "To remember and appreciate those who served",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What happened to Maria's job in August 2023?",
+        "evidence": [
+          "D28:1"
+        ],
+        "category": 5,
+        "answer": "John lost his job at the mechanical engineering company.",
+        "gpt-3.5-turbo-4k_prediction": "John lost his job at the mechanical engineering company.",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "Who did John work with to raise awareness and funds for animal welfare?",
+        "evidence": [
+          "D29:10"
+        ],
+        "category": 5,
+        "answer": "a local organization",
+        "gpt-3.5-turbo-4k_prediction": "a local organization",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "What is the name of John's puppy he got two weeks before August 11, 2023?",
+        "evidence": [
+          "D30:1"
+        ],
+        "category": 5,
+        "answer": "Coco",
+        "gpt-3.5-turbo-4k_prediction": "Coco",
+        "gpt-3.5-turbo-4k_f1": 0
+      },
+      {
+        "question": "How is John's new puppy adjusting to its new home?",
+        "evidence": [
+          "D31:10"
+        ],
+        "category": 5,
+        "answer": "doing great - learning commands and house training",
+        "gpt-3.5-turbo-4k_prediction": "doing great - learning commands and house training",
+        "gpt-3.5-turbo-4k_f1": 0
+      }
+    ]
+  }
+]
